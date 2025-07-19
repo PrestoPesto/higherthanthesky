@@ -1,5 +1,101 @@
 ROOMS
+LNR_EASTBRIDGE : LNR_EASTTOWER, LNR_LEG
+LNR_LP07 : LNR_LP06, LNR_LEGCONNECTOR, LNR_LPINSIDE08
+LNR_LP06 : LNR_LP05, LNR_LPINSIDE06, LNR_LP07
+LNR_LP05 : LNR_LPINSIDE05, LNR_LP06
+LNR_LP04 : LNR_LPINSIDE04, LNR_LPINSIDE05
+LNR_CAVE03 : LNR_CAVE01, LNR_CAVE04
+LNR_CAVE04 : LNR_CAVE03, LNR_CAVE05
+LNR_CAVE05 : LNR_OE04, LNR_CAVE04
+LNR_OE04 : LNR_OE03, LNR_CAVE05, LNR_CAVE06
+LNR_OE03 : LNR_OE04, LNR_OE02
+LNR_CAVE06 : LNR_OE04, LNR_OE02
+LNR_LEG : LNR_LEGCONNECTOR, LNR_LEGSIDE, LNR_EASTBRIDGE
+LNR_LEGCONNECTOR : LNR_LP07, LNR_LEG
+LNR_LPINSIDE08 : LNR_LPINSIDE07, LNR_LP07
+LNR_LPINSIDE07 : LNR_LPINSIDE06, DISCONNECTED, LNR_LPINSIDE08
+LNR_LPINSIDE05 : LNR_LP04, LNR_LP05
+LNR_LPINSIDE04 : LNR_LP04, LNR_LP03
+LNR_LPINSIDE02 : LNR_LPINSIDE03, LNR_LP03
+LNR_LPINSIDE03 : DISCONNECTED, LNR_LPOBLIGATORYBALLSROOM, DISCONNECTED, LNR_LPINSIDE02
+LNR_LPINSIDE01 : LNR_LP01, LNR_LPOBLIGATORYBALLSROOM
+LNR_LPTUBE : LNR_LPPIPES, LNR_LP01
+LNR_LPPIPES : GATE_LNR_SI, LNR_LPTUBE
+LNR_CRATE04 : LNR_CRATE01, LNR_CRATE05
+LNR_CRATE01 : LNR_CRATE04, LNR_CRATE03, LNR_LPINSIDE06, LNR_CRATE02, LNR_SLPCRATE
+LNR_CRATE02 : LNR_CRATE03, LNR_CRATE01, LNR_CRATE05, LNR_SLPCRATE
+LNR_CRATE03 : LNR_CRATE01, LNR_CRATE02
+LNR_CRATE05 : LNR_CRATE04, LNR_CRATE02, LNR_CRATE06
+LNR_CRATE06 : LNR_CRATE05, LNR_SLPCRATE, LNR_CRATE07
+LNR_CRATE07 : LNR_CRATE06, LNR_SLPCRATE
+LNR_SLPCRATE : LNR_CRATE02, LNR_CRATE01, LNR_CRATE06, LNR_LPINSIDE06, LNR_CRATE07 : SHELTER
+LNR_LPINSIDE06 : LNR_CRATE01, LNR_LP06, LNR_SLPCRATE, LNR_LPINSIDE07
+LNR_LP01 : LNR_SLPTOP, LNR_LPTUBE, LNR_LPINSIDE01
+LNR_LPOBLIGATORYBALLSROOM : LNR_LPINSIDE01, LNR_LPINSIDE03
+LNR_LP03 : LNR_LPINSIDE04, LNR_LPINSIDE02
+LNR_LEGSIDE : LNR_LEGTOP, LNR_LEG
+LNR_SAND03 : LNR_BRICK01, DISCONNECTED, LNR_SAND02, LNR_SHAFT01
+LNR_SANDTOLL : LNR_BRICK02, LNR_BRICK01
+LNR_SAND02 : LNR_SAND03, LNR_SAND01
+LNR_SAND01 : LNR_SAND02, LNR_EASTTOWER
+LNR_BRICK01 : LNR_SANDTOLL, LNR_SAND03, LNR_BRICK03
+LNR_CAVE07 : LNR_SAND08, LNR_SAND07, LNR_SAND05
+LNR_SAND08 : LNR_SAND09, LNR_CAVE07
+LNR_SAND09 : LNR_BRIDGEBASE, LNR_SAND08
+LNR_BRIDGEBASE : LNR_BRICK06, LNR_SAND09
+LNR_BRIDGE01 : LNR_BRICK06, LNR_BRIDGE02
+LNR_BRICK06 : LNR_BRIDGE01, LNR_SAND10, LNR_BRIDGEBASE
+LNR_BRIDGE02 : LNR_BRIDGE01
+LNR_SAND10 : LNR_BRICK06, LNR_BRICK07, DISCONNECTED
+LNR_BRICK07 : LNR_SBRICK02, LNR_SAND11, LNR_SAND10
+LNR_SAND12 : DISCONNECTED, LNR_SAND11
+LNR_CAVE10 : LNR_CAVE11, DISCONNECTED, LNR_CAVE09
+LNR_CAVE11 : LNR_SAND07, LNR_CAVE10
+LNR_BRICK02 : LNR_BRICK05, LNR_SAND05, LNR_SANDTOLL, LNR_SBRICK
+LNR_SBRICK : LNR_BRICK02
+LNR_SBRICK02 : LNR_BRICK07
+LNR_CAVE02 : LNR_TUNNELPIT, LNR_CAVE01, LNR_TUNNEL01
+LNR_SLEG : LNR_LEGTOP
+LNR_LEGTOP : LNR_SLEG, LNR_LEGSIDE
+LNR_SLPTOP : LNR_LP01
+LNR_SAND11 : LNR_SAND12, LNR_BRICK07
+LNR_OE02 : LNR_OE03, GATE_LNR_OE, LNR_CAVE06
+LNR_SAND05 : LNR_CAVE07, LNR_BRICK02, LNR_SAND06
+LNR_TUNNEL01 : LNR_CAVE02, LNR_TUNNEL03, LNR_TUNNEL02
+LNR_TUNNEL02 : LNR_TUNNEL04, LNR_TUNNEL01
+LNR_TUNNEL03 : LNR_TUNNELDOME, LNR_TUNNEL01
+LNR_TUNNEL05 : LNR_TUNNEL04, LNR_TUNNELCAVE01
+LNR_TUNNELCAVE01 : LNR_TUNNEL05, LNR_TUNNELCAVE02
+LNR_TUNNELCAVE02 : LNR_TUNNELFISHY, LNR_TUNNELCAVE01
+LNR_TUNNELDOME : LNR_TUNNELMERCH, LNR_TUNNELCOLLAPSE, LNR_TUNNEL03
+LNR_TUNNELFISHY : LNR_TUNNELCAVE02, DISCONNECTED, LNR_SECRET
+LNR_SECRET : LNR_TUNNELFISHY
+LNR_TUNNELMERCH : LNR_TUNNELDOME
+LNR_STUNNEL : LNR_TUNNELCOLLAPSE
+LNR_SAND07 : LNR_CAVE07, LNR_CAVE11
+LNR_TUNNELPIT : LNR_BRICK04, LNR_SAND04, LNR_SCAVE, LNR_CAVE02
+LNR_SCAVE : LNR_TUNNELPIT
+LNR_CAVE01 : LNR_SAND04, LNR_SHAFT01, LNR_CAVE03, LNR_CAVE02
+LNR_BRICK04 : DISCONNECTED, LNR_BRICK03, LNR_TUNNELPIT
+LNR_SHAFT01 : LNR_SAND03, LNR_CAVE01
+LNR_BRICK03 : LNR_BRICK01, LNR_BRICK04
+LNR_SAND04 : LNR_TUNNELPIT, LNR_CAVE01
+LNR_BRICK05 : LNR_BRICK02
+LNR_ARCHIVESTASH : LNR_ARCHIVE01
+LNR_SAND06 : LNR_SAND05, LNR_CAVE08, LNR_ARCHIVEPIT
+LNR_CAVE08 : LNR_CAVE09, LNR_SAND06
+LNR_CAVE09 : LNR_CAVE10, LNR_CAVE08, LNR_SAND13
+LNR_SAND13 : DISCONNECTED, LNR_CAVE09
+LNR_TUNNEL04 : LNR_TUNNELCOLLAPSE, LNR_ARCHIVE01, LNR_TUNNEL02, LNR_TUNNEL05
+LNR_TUNNELCOLLAPSE : LNR_STUNNEL, LNR_TUNNELDOME, LNR_TUNNEL04
+LNR_ARCHIVE01 : LNR_ARCHIVEPIT, LNR_ARCHIVESTASH, LNR_ARCHIVE02, LNR_TUNNEL04
+LNR_ARCHIVE02 : LNR_ARCHIVEPIT, LNR_ARCHIVE01
+LNR_ARCHIVEPIT : LNR_SAND06, LNR_ARCHIVE02, LNR_ARCHIVE01
+LNR_EASTTOWER : LNR_EASTBRIDGE, LNR_SAND01
+GATE_LNR_OE : LNR_OE02, DISCONNECTED, LNR_SOE : GATE
+LNR_SOE : GATE_LNR_OE
+GATE_LNR_SI : LNR_LPPIPES, DISCONNECTED : GATE
 END ROOMS
 
-CREATURE
-END CREATURES                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           
+CREATURES
+END CREATURES
