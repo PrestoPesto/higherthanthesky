@@ -8,3 +8,6 @@ pupSpawnChance: 0.1
 Room Settings Templates: sand-outside, sand-inside, wall-outside, wall-inside, cave
 Subregion: Lonely Road
 Subregion: Low Pass
+Subregion: Entombed Archives
+Subregion: Shrine of Pests
+Room_Attr: LNR_LP07: PinkLizard-Neutral,
