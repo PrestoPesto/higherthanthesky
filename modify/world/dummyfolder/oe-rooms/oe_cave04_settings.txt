@@ -1,0 +1,16 @@
+Template: OE_SettingsTemplate_Cave
+DangerType: FloodAndRain
+CeilingDrips: 0
+RainIntensity: 0.03173894
+RumbleIntensity: 0.326087
+WaveSpeed: 0.51
+WaveLength: 1
+WaveAmplitude: 0.0001
+SecondWaveLength: 1
+SecondWaveAmplitude: 0.0001
+Clouds: 0.7608696
+Palette: 53
+Effects: SkyAndLightBloom-0.07608695-23-133, Darkness-0-258-259, 
+PlacedObjects: LanternOnStick><1253.125><181.0935><-20~-62, LanternOnStick><1650.052><267.2781><30~-108, LanternOnStick><228.2413><349.0502><-69~-140, LanternOnStick><503.4495><199.2634><23~-141, 
+FadePalette: 3, 0.6739131, 0.7391304
+WetTerrain: OFF

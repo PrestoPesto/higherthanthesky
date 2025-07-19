@@ -1,0 +1,8 @@
+Template: lnr_settingstemplate_cave
+DangerType: Flood
+Clouds: 0.6959919
+Grime: 0.1336007
+Palette: 727
+Effects: ModifyEffectColorB-0,0.306669,0.1984036-30.71149-77.64445, 
+AmbientSounds: OMNI><AM_ENV-SubTerr.ogg><771.0473><448.1986><0.2834692><1, 
+FadePalette: 42, -1, -1

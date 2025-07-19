@@ -1,0 +1,2 @@
+Template: lnr_settingstemplate_cave
+PlacedObjects: DangleFruit><538.8726><414.9041><0~0~2~3, DangleFruit><407.6071><446.9189><0~0~2~3, 

@@ -1,0 +1,7 @@
+Clouds: 0.1927308
+Grime: 0.3369565
+Palette: 729
+EffectColorA: 11
+EffectColorB: 18
+Effects: Fog-0.7173913-20-20, ModifyEffectColorB-0,0.3586957,0.4130435-288-7,
+AmbientSounds: OMNI><AM_ENV-CityTone.ogg><814.2805><566.6976><0.5><1, OMNI><AM_IND-Warehouse03.ogg><737.9103><386.3805><0.3478261><0.9608696, OMNI><AM_ENV-NatWind.ogg><737.7042><487.5553><0.4565217><1

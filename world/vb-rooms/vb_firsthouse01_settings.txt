@@ -1,0 +1,24 @@
+Template: NONE
+CeilingDrips: 0.1413043
+Clouds: 0.2934783
+Grime: 0.4347826
+RandomItemDensity: 0.1521739
+Palette: 465
+EffectColorA: 0
+EffectColorB: 6
+TerrainLight: 0.5
+TerrainStainAmount: 0
+TerrainStainBrightness: 0.4456522
+TerrainStainHeight: 0.3152174
+TerrainEdgeRadius: 79.56516
+TerrainGooHeight: 1
+TerrainGrain: 0.1652175
+TerrainDepth: -5.16304
+TerrainSkyFade: 0
+Effects: AboveCloudsView-0-681.6958-397.6445, SkyBloom-1-20-20, 
+PlacedObjects: DangleFruit><373.3568><589.4191><227~-30~2~3, DangleFruit><410.4618><552.0537><177~-33~2~3, DangleFruit><466.6587><566.3221><309~10~2~3, WallLight><86.85162><564.8278><-268~-147~86.85162~564.8278~-7~-594~100~0~103~-599~0~0.5~0.6630435~True~SkyColor~False~False~Always~Soft, WallLight><773.8567><560.6395><132~-129~773.8567~560.6395~-6~-564~100~0~115~-556~0~0.5~0.5217391~True~SkyColor~False~False~Always~Soft, LightSource><401.7284><597.3011><0.7934783~Environment~0~100~-24~-147.3975~1~0~None~0~0, LightSource><559.5579><594.6945><0.7282609~Environment~0~100~87~-101.3975~1~0~None~0~0, 
+AmbientSounds: OMNI><AM_ENV-Outside.ogg><733.0571><474.1974><0.4130435><1.176087, OMNI><AM_ENV-NatWind.ogg><768.1888><376.434><0.2282609><1.195652, OMNI><AM_ENV-CityTone.ogg><746.1537><567.3779><0.25><1, 
+FadePalette: 13, 0.3043478
+MorePalette0: 28, 0.3804348
+BackgroundOffset: 3152.174,120
+BackgroundType: atc_default_vanilla

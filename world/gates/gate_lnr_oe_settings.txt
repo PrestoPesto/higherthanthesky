@@ -1,0 +1,3 @@
+Template: lnr_settingstemplate_cave
+Effects: ModifyEffectColorB-0.9279888,0.7783966,0.3685349-30-71.95556, 
+PlacedObjects: ExitSymbolShelter><127.5589><136.3165><, 

@@ -1,0 +1,15 @@
+DangerType: Rain
+CeilingDrips: 0
+WaveSpeed: 0.51
+WaveLength: 1
+WaveAmplitude: 0.0001
+SecondWaveLength: 1
+SecondWaveAmplitude: 0.0001
+Clouds: 0.75
+Grime: 0.1956522
+Effects: LightRain-0.04347826-286-76, PixelShift-0.5-32-65, AboveCloudsView-1-282-132, 
+PlacedObjects: DayNightSettings><922.4199><1219.606><5~8.660254~17~10, CustomDecal><380.1859><96.67606><-68~237~477~277~417~-10~-126~193~0.2065217~0.5~0.4673913~Rust2~0.7173913~1~0.7173913~1~0.7173913~1~0.7173913~1, NoSpearStickZone><456.6898><1120.813><0~100, InsectGroup><6093.872><1342.097><197~-9~-42~49~FireFly~0.6304348, GooieDuck><6527.801><1281.285><0~0~2~3, GooieDuck><6456.805><1309.301><0~0~2~3, DevToken><915.9316><1351.188><14~-78~-308~-114~0~~~0~0~0~1, 
+AmbientSounds: OMNI><AM_ENV-NatWind.ogg><69.81915><439.6646><0.4673913><0.6478261, OMNI><SO_WAT-Splashes.ogg><78.15137><353.6193><0.2608696><1, 
+Triggers: RegionBump<tA>event<tB>MusicEvent<eA>songName<eB>NA_05 - Sparkles<eA>vol<eB>0.3<eA>prio<eB>0.5<eA>mxThrt<eB>1<eA>loop<eB>0<eA>droneTol<eB>0<eA>rooms<eB>-1<eA>rest<eB>5<eA>fadeIn<eB>97.82609<eA>oneSongPerCycle<eB>0<eA>stopAtDeath<eB>0<eA>stopAtGate<eB>0<tA>multiUse<tB>0<tA>toCycle<tB>-1<tA>fromCycle<tB>0<tA>delay<tB>573<tA>panPos<tB>795.0696<tB>446.1875<tA>fireChance<tB>1<tA>entrance<tB>1<tA>karma<tB>0<tA>slugcats<tB>, 
+FadePalette: 10, 0.5543478, 0.5652174, 0.5760869, 0.5978261, 0.6086956, 0.6195652, 0.5108696, 0.5326087, 0.5652174, 0.5869565, 0.5978261, 0.6086956
+WetTerrain: OFF

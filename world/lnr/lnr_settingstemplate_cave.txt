@@ -1,0 +1,8 @@
+Clouds: 0.8119905
+Grime: 0.18
+Palette: 726
+EffectColorA: 8
+EffectColorB: 18
+Effects: LightBurn-0.3015966-300.3542-15.77778, Hue-0.04639949-20-20, 
+PlacedObjects: MudPit><1043.064><18.49041><283.2406~108.2222~143.774, MudPit><2579.916><33.60001><286.0864~111.0667~131.6792, 
+AmbientSounds: OMNI><RWTW_AmbInterior.ogg><745.3279><324.0658><0.3602698><1

@@ -1,0 +1,5 @@
+Template: lnr_settingstemplate_cave
+Palette: 727
+PlacedObjects: LanternOnStick><560.3441><212.9575><13.5177~-159.5556, 
+AmbientSounds: OMNI><AM_ENV-SubTerr.ogg><746.947><443.9226><0.2989356><1, 
+FadePalette: 42, 0

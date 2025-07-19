@@ -1,0 +1,17 @@
+Template: lnr_settingstemplate_cave
+DangerType: Flood
+CeilingDrips: 0.1630435
+Palette: 726
+TerrainLight: 1
+TerrainStainAmount: 0.8478261
+TerrainStainBrightness: 0.7717391
+TerrainStainHeight: 0.4891304
+TerrainWaves: 1
+TerrainEdgeRadius: 14.34777
+TerrainGooHeight: 0.07608695
+TerrainGrain: 1
+TerrainDepth: 1.84782
+TerrainPalette: lonely_road_sand
+Effects: Ant-0.5108696-30-93, 
+AmbientSounds: OMNI><AM_ENV-SubTerr.ogg><724.3381><446.3204><0.1528194><1, 
+FadePalette: 10, 0.1413043

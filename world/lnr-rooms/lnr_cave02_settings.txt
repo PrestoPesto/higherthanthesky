@@ -1,0 +1,4 @@
+Template: lnr_settingstemplate_cave
+DangerType: Flood
+Palette: 726
+FadePalette: 10, 0.1304348

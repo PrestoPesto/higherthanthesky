@@ -1,0 +1,5 @@
+size : 0.8
+radius : 5
+echosong : SH
+room : lnr_bridge02
+defaultflip : -0.4

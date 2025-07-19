@@ -1,0 +1,16 @@
+GATE_LNR_OE: -2598><-370.5><-2598><-370.5><0><
+OE_RUINLNR01: -2166><4.5><-2166><4.5><0><
+OE_RUIN08: -1336.29><254.093><-1336.29><254.093><1><Outer Expanse
+OFFSCREENDENOE: -1977><106.5><-1977><106.5><1><
+OE_RUIN05: -1932><276><-1932><276><1><Outer Expanse
+OE_RUINLNR: -2415><-19.5><-2415><-19.5><0><
+//FloodForge;ROOM|gate_lnr_oe
+//FloodForge;ROOM|oe_ruinlnr01
+//FloodForge;ROOM|oe_ruin08
+//FloodForge;ROOM|OffscreenDenOE
+//FloodForge;ROOM|oe_ruin05
+//FloodForge;ROOM|oe_ruinlnr
+Connection: GATE_LNR_OE,OE_RUINLNR,45,9,10,18,0,2
+Connection: OE_RUINLNR01,OE_RUINLNR,8,11,42,83,2,0
+Connection: OE_RUINLNR,OE_RUIN05,51,165,5,43,0,2
+Connection: OE_RUIN05,OE_RUIN08,243,31,5,20,0,2

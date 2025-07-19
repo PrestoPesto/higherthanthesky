@@ -1,0 +1,14 @@
+Template: lnr_settingstemplate_cave
+DangerType: Flood
+CeilingDrips: 0.1630435
+WaveSpeed: 0.5
+WaveLength: 0.75
+WaveAmplitude: 0.04556853
+SecondWaveLength: 0.1666667
+SecondWaveAmplitude: 0
+Grime: 0.06043475
+Palette: 727
+Effects: ModifyEffectColorB-0,0.3043478,0.173913-32-75, 
+PlacedObjects: LanternOnStick><960.698><613.2764><12~-120, LanternOnStick><623.6842><322.0779><-32~-189, LanternOnStick><306.3027><1142.033><-23~-156, LanternOnStick><337.3026><342.9681><-54~-190, LanternOnStick><1011.619><310.8393><33~-168, LanternOnStick><237.3793><546.84><4~-155, LanternOnStick><1082.677><1125.907><-26~-135, LanternOnStick><748.6508><1097.131><30~-116, CustomDecal><1117.093><1023.927><3~210~93~205~94~2~-273~28~0~0.1847826~0~scav wedges3(vert)~0.5978261~0.3804348~0.5978261~0.3804348~0.5978261~0.3804348~0.5978261~0.3804348, CustomDecal><779><956><1~47~380~48~382~-3~-273~28~0~0.09782609~0~scav wedges2~0.4782609~0.2934783~0.4782609~0.2934783~0.4782609~0.2934783~0.4782609~0.2934783, ExitSymbolHidden><1195.975><1128.198><, CustomDecal><944.1954><1055.192><2~169~199~172~197~3~-297~0~0.2391304~0.3586957~0~lc_scavmarks8~1~0.5434783~1~0.5434783~1~0.5434783~1~0.5434783, 
+AmbientSounds: OMNI><AM_ENV-SubTerr.ogg><746.9333><446.42><0.2224181><1, 
+FadePalette: 726, 0.173913, 0.06521739

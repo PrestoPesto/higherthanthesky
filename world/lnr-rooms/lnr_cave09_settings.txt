@@ -1,0 +1,13 @@
+Template: lnr_settingstemplate_cave
+Clouds: 0.5108696
+TerrainLight: 1
+TerrainStainAmount: 0.8260869
+TerrainStainBrightness: 0.326087
+TerrainStainHeight: 0.6521739
+TerrainWaves: 0.3369565
+TerrainEdgeRadius: 29.56516
+TerrainGooHeight: 0.1086956
+TerrainGrain: 0.5239125
+TerrainDepth: 1.684776
+TerrainPalette: lonely_road_sand
+PlacedObjects: TerrainHandle><1002.417><51.13995><-40~0~223~14~20, TerrainHandle><1294.876><74.15665><-23~-2~215~42~34, TerrainHandle><500.9271><164.8138><-40~0~157~-102~30, TerrainHandle><1626.19><175.0638><-40~0~40~0~63, TerrainSunOffset><1024.63><268.0977><-35~24, LightSource><1467.978><628.5511><0.2934783~Environment~-144~-119~124~-132.3975~1~1~None~0~0, LightSource><1594><210><0.1630435~Environment~-186~-138~124~-132.3975~1~1~None~0~0, LightBeam><1566.535><85.44684><-139~597~-91~588~95~24~289~-152~0.5521744~0.1956522~0~1~None~0~0, LightSource><754><593><0.2934783~Environment~-144~-119~124~-132.3975~1~1~None~0~0, LightSource><958><80.00001><0.1630435~Environment~-186~-138~124~-132.3975~1~1~None~0~0, LightBeam><873><69.00001><-177~598~-109~595~144~-18~289~-152~0.5521744~0.1956522~0~1~None~0~0, LanternOnStick><1992.432><439.0618><39~-122, LanternOnStick><576.0873><246.1337><-23~-136, 

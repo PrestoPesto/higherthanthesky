@@ -1,0 +1,10 @@
+{
+	"id": "presto.htts",
+	"version": "0.1.0",
+	"name": "Higher Than The Sky",
+	"authors": "PrestoPesto",
+	"description": "Ascend an ancient mountain and follow the civilization that called it home",
+	"requirements": ["crs"],
+	"requirements_names": ["Custom Regions Support"],
+	"checksum_override_version": true
+}

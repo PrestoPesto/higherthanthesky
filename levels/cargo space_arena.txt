@@ -1,0 +1,17 @@
+DenGroup - ALL - 5,6,7,8,9,10,11,12
+DenGroup - LIZ - 5,6,9,10
+DenGroup - CENTI - 7,11,12
+
+Creature - PinkLizard - dens:LIZ - chance:0.6
+Creature - BlueLizard - dens:LIZ - chance:1.0
+Creature - WhiteLizard - dens:LIZ - chance:0.7
+
+CreatureGroup - SCAVS - invSymbol:A1
+Creature - Scavenger - dens:-1 - chance:0.7 - group:SCAVS - amount:4
+Creature - ScavengerElite - dens:-1 - chance:0.4 - group:SCAVS - RARE
+
+Creature - Centipede - dens:CENTI - chance:0.7 - amount: 3
+
+Creature - YellowLizard - dens:LIZ - invSymbol:A2 - chance:1.0 - amount: 4
+
+Creature- CyanLizard - dens:ALL - invSymbol:A3 - chance: 0.5 - amount:2-3

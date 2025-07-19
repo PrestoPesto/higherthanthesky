@@ -1,0 +1,4 @@
+Template: lnr_settingstemplate_cave
+Palette: 727
+PlacedObjects: LanternOnStick><527.9552><515.7436><-27.0354~-132.5333, 
+FadePalette: 10, 0.57226

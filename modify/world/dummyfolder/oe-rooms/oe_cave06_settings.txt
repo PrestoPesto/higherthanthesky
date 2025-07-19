@@ -1,0 +1,8 @@
+Template: OE_SettingsTemplate_Cave
+RainIntensity: 0
+RumbleIntensity: 0
+Clouds: 0.9239131
+EffectColorA: 14
+Effects: LightBurn-0.06521739-277-17, RockFlea-0.25-293-76, Darkness-0-20-20, DayNight-0.0326087-284-160, 
+PlacedObjects: LightSource><501.4358><569.176><0.08695652~EffectColor1~-131~-254~108~-114.3975~1~0~None~0~0, LightSource><238.3073><561.6967><0.1521739~EffectColor1~197~-180~112~-295.3975~1~0~None~0~0, LightSource><735.2545><169.05><0.08695652~EffectColor1~-174~262~-208~-160.3975~1~0~None~0~0, LightSource><695.617><192.8506><0.08695652~EffectColor1~402~192~-304~-107.3975~1~1~None~0~0, LightSource><405.1852><465.3255><0.09782609~EffectColor1~-374~61~50~86.60254~1~1~None~0~0, DayNightSettings><-16.29468><389.0551><5~8.660254~76~10, 
+FadePalette: 10, 0.8152174

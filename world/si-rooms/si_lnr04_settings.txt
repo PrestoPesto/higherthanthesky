@@ -1,0 +1,11 @@
+Template: si_settingstemplate_inside
+Grime: 0.3238111
+RandomItemDensity: 0.2934783
+RandomItemSpearChance: 0
+Palette: 3
+EffectColorA: 8
+EffectColorB: 18
+PlacedObjects: LightBeam><1494.319><344.1647><-15~490~131~489~102~1~-263~7~0.1282607~0.3478261~0.5760869~1~None~0~0, LightBeam><1765><333><-15~490~131~489~102~1~-263~7~0.1282607~0.3478261~0.5760869~1~None~0~0, DeathFallFocus><1503.073><51.59245><, CustomDecal><952.5793><238.9336><0~121~178~119~183~3~60~-246~0~1~0~whitetag8~0.5~0.2934783~0.5~0.2934783~0.5~0.2934783~0.5~0.2934783, NoSpearStickZone><119.8451><330.8735><8~230, LightSource><138.2014><418.2723><0.1189651~EffectColor2~142~-2~50~86.60254~0~1~None~0~0, WallLight><-0.9723511><123.9481><, LightSource><133><256><0.1189648~EffectColor2~142~-2~50~86.60254~0~1~None~0~0, SeedCob><705.4489><319.5214><0~0~5~8, SeedCob><2355.381><329.5992><0~0~7~10, DandelionPatch><1338.878><174.5568><12.80624~112.8, 
+FadePalette: 2, 0.3043478, 0.3043478, 0.3043478
+WetTerrain: OFF
+MorePalette0: 14, 0.3804348, 0.3804348, 0.3695652

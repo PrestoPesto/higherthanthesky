@@ -1,0 +1,15 @@
+Template: NONE
+Clouds: 0.2173913
+Palette: 725
+EffectColorA: 19
+EffectColorB: 4
+TerrainLight: 0
+TerrainWaves: 0.7391304
+TerrainEdgeRadius: 200
+TerrainGooHeight: 0.1413043
+TerrainGrain: 0.3586957
+TerrainDepth: 0.5434713
+TerrainSkyFade: 1
+TerrainPalette: lonely_road_sand
+Effects: ModifyEffectColorA-0.326087,0.5,0.5-20-20, 
+PlacedObjects: LightSource><351.5563><507.2003><0.3478261~EffectColor1~15~58~50~86.60254~0~0~None~0~0, TerrainHandle><35.61755><15.41184><-40~0~199~29~93, TerrainHandle><413.2858><83.44681><-196~-19~123~-1~102, TerrainHandle><730.5741><71.43577><-126~-5~88~20~83, TerrainHandle><1155.395><23.17042><-218~1~40~0~81, TerrainSunOffset><221.7243><256.1983><9~-22, 

@@ -1,0 +1,4 @@
+Template: lnr_settingstemplate_cave
+EffectColorA: 18
+Effects: ModifyEffectColorA-0,0.1365376,0.5541327-31.42294-75.51111, 
+AmbientSounds: SPOT><RWTW_DustStorm_Gusting.ogg><813.0521><537.4441><0.1597376><1><247.5562><1290.866><0.2175598><-124.2442><0><0.1, 

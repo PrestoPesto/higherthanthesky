@@ -1,0 +1,11 @@
+Clouds: 0.02173913
+Grime: 0.2391304
+TerrainStainAmount: 0.4673913
+TerrainStainBrightness: 0.6521739
+TerrainStainHeight: 0.2282609
+TerrainWaves: 0
+TerrainGrain: 1
+TerrainPalette: lonely_road_sand
+PlacedObjects: DataPearl><1406.422><470.6018><0~0~0~0~Misc~0, ReliableSpear><1148.827><337.8998><, FloatingDebris><364.6144><363.664><50~50~1152197171~19~30~0.9347833~1.717392~41~-273|3095~96|87~1.83|0.95~0|0~0|0~Stardust~0.5~0v0.56v0v0|0v0.51v0v0~0, TerrainHandle><381.8992><301.8269><-51~3~237~-117~20, TerrainHandle><1508.031><226.8077><-161~-15~228~-39~20, TerrainHandle><2222.181><239.0866><-445~-142~352~-39~49, TerrainHandle><2890.198><160.9611><-345~6~108~-25~32, TerrainHandle><3418.188><178.1601><-390~-66~74~3~20, TerrainHandle><888.9287><291.1851><-138~-78~141~-47~20, TerrainSunOffset><2441.053><311.036><-32~9, 
+FadePalette: 42, 0, 0, 0
+TerrainFadePalette: test_badlands_2, 0, 0, 0

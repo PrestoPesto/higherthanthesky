@@ -1,0 +1,10 @@
+Clouds: 0.4347826
+Grime: 0.1086956
+Palette: 725
+EffectColorB: 18
+TerrainLight: 0
+TerrainWaves: 0.6847826
+TerrainEdgeRadius: 79.56516
+TerrainGooHeight: 0.1521739
+PlacedObjects: RedToken><430.8014><1248.774><0~100~0~0~0~LNR~White~0~0~1~0~0~0~1~0~0~0~1~0, TerrainHandle><254.3294><301.3956><0~-82~241~-99~20, TerrainHandle><1325.698><278.9705><-439~-126~117~18~89, TerrainHandle><2099.974><345.4482><-562~-43~151~-26~20, TerrainHandle><2632.358><224.8907><-307~26~165~5~20, TerrainHandle><3163.162><373.3671><-189~-94~40~0~48, TerrainHandle><3421.097><428.6208><-85~3~0~-104~20, BlackSpot><3392.4><-18.17339><-2~482~111~461~112~-1, TerrainSunOffset><2214.949><392.4791><9~-8, TerrainHandle><2032.32><-12.08734><-40~0~40~0~20, TerrainHandle><1345.341><-14.87833><-40~0~40~0~20, BlackSpot><1285.357><-21.1402><3~312~85~330~127~0, BlackSpot><1970><-22><45~375~103~376~177~0, BlackSpot><1320><-23><13~299~732~355~777~0, 
+FadePalette: 42, 0, 0, 0, 0, 0, 0, 0, 0

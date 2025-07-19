@@ -1,0 +1,8 @@
+Template: NONE
+Clouds: 0.1847826
+Grime: 0.04347826
+Palette: 726
+Effects: SkyAndLightBloom-0.04347826-20-20, 
+PlacedObjects: LanternOnStick><382.8538><291.6709><18~-116, LanternOnStick><811.5669><236.4195><-18~-128, DataPearl><215.0719><493.8416><0~0~0~0~Misc~0, 
+AmbientSounds: OMNI><RWTW_DustStorm_Deep.ogg><758.9224><412.7419><0.1956522><1, OMNI><RWTW_AmbInterior.ogg><766.3278><322.1842><0.2608696><1, SPOT><RWTW_DustStorm_Gusting.ogg><1003.834><457.0117><0.182937><1><669.4175><591.4117><-38.20117><-52.42206><0><0.1, SPOT><RWTW_DustStorm_Gusting.ogg><1186.016><267.0603><0.2216027><1><1008.234><163.9493><-43.1814><-41.04425><0><0.1, SPOT><RWTW_DustStorm_Gusting.ogg><373.1547><281.3669><0.2138702><1><116.4004><167.5801><-43.18138><-43.17758><0><0.1, 
+FadePalette: 30, 0.1956522

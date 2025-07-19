@@ -1,0 +1,14 @@
+Template: NONE
+Clouds: 0.5
+Grime: 0.3762681
+BkgDroneVolume: 0
+BkgDroneNoThreatVolume: 0
+Palette: 725
+EffectColorA: 8
+EffectColorB: 18
+Effects: FairyParticles-1-20-20, 
+PlacedObjects: FloatingDebris><996.4392><359.5649><-48~56~2147480026~7~30~0.25~1.315217~46~-1071|1114~-27|-26~3.67|3.14~0|0~0|-0.01~Stardust~1~0.32v1.57v0v0|0v1.2v0v0~0, FairyParticleSettings><371.6632><273.3656><22~14.66025~0~1~1~0~1~2.383704~70.86945~218.0434~750~1000~5~18.26095~101.7391~136.9565~0.04347826~0.06956482~0.1195652~0.1956522~0.3804348~0.5108696~1~0.2826087~7.790894~Leaf~SIN_IO~SIN_IO~0~0~0, DeathFallFocus><974.8856><34.08578><, 
+AmbientSounds: OMNI><RWTW_DustStorm_Gusting.ogg><764.5749><532.6534><0.265897><1, 
+Triggers: Spot<tA>event<tB>MusicEvent<eA>songName<eB>this gilded wind<eA>vol<eB>0.3<eA>prio<eB>1<eA>mxThrt<eB>1<eA>loop<eB>0<eA>droneTol<eB>0<eA>rooms<eB>-1<eA>rest<eB>5<eA>fadeIn<eB>0<eA>oneSongPerCycle<eB>1<eA>stopAtDeath<eB>0<eA>stopAtGate<eB>0<tA>multiUse<tB>1<tA>toCycle<tB>-1<tA>fromCycle<tB>0<tA>delay<tB>0<tA>panPos<tB>801.0235<tB>378.1165<tA>fireChance<tB>1<tA>entrance<tB>1<tA>karma<tB>0<tA>slugcats<tB><tA>pos<tB>1596.258<tB>515.472<tA>handlePos<tB>-254.6782<tB>-244.1776, 
+FadePalette: 42, 0, 0
+MorePalette0: 3, 0.1580154, 0.2087973

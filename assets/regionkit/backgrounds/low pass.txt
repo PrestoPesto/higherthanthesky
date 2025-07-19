@@ -1,0 +1,25 @@
+PROTECTED
+Parent: AtC_Default_MSC
+Type: AboveCloudsView
+OffsetX: 0
+OffsetY: 0
+---------------
+startAltitude: 19000
+endAltitude: 40000
+cloudsStartDepth: 5
+cloudsEndDepth: 40
+distantCloudsEndDepth: 200
+cloudsCount: 7
+curveCloudDepth: 1
+distantCloudsCount: 11
+overrideYStart: -1600
+overrideYEnd: 0
+daySky: AtC_Sky
+duskSky: AtC_DuskSky
+nightSky: AtC_NightSky
+atmosphereColor: 5A7A73
+
+FlyingCloud: 0, 75, 355, 0.35, 0.5, 0.9
+FlyingCloud: 0, 43, 920, 0.15, 0.3, 0.95
+
+DistantBuilding: R Wall 5, 7300, -5500, 5, -20 : scale|1.3 : anchor|1,0

@@ -1,0 +1,10 @@
+Template: lnr_settingstemplate_cave
+DangerType: Flood
+Clouds: 0.2938634
+Grime: 0.2297214
+Palette: 726
+EffectColorA: 8
+EffectColorB: 18
+Effects: Hue-0.04639949-20-20, LightBurn-0.3015964-17.19376-67.68889, 
+AmbientSounds: OMNI><RWTW_AmbInterior.ogg><745.3279><324.0658><0.2602698><1, SPOT><RWTW_DustStorm_Gusting.ogg><816.1817><540.2999><0.2293363><1><491.5223><863.1888><-35.35534><-35.35534><0><0.1, 
+FadePalette: 42, 0

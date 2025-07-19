@@ -1,0 +1,4 @@
+Template: OE_SettingsTemplate_Cave
+EffectColorB: 6
+PlacedObjects: BrokenShelterWaterLevel><494.4266><364.3439><, 
+FadePalette: 10, 0.7173913

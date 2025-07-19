@@ -1,0 +1,17 @@
+Template: NONE
+DangerType: FloodAndRain
+CeilingDrips: 0.3144024
+WaveSpeed: 0.5
+WaveLength: 0.75
+WaveAmplitude: 0.04452905
+SecondWaveLength: 0.1666667
+SecondWaveAmplitude: 0
+Clouds: 0.3194746
+Grime: 0.09493422
+Palette: 727
+EffectColorA: 8
+EffectColorB: 18
+Effects: Hue-0.04347826-20-20, LightBurn-1-295-27, ModifyEffectColorB-0,0.3043478,0.2608696-29-79, 
+PlacedObjects: LightBeam><562.6208><104.8406><-29~662~70~663~164~-16~-164~-222~0.09565204~0.2173913~0~1~None~0~0, LightSource><627.8015><211.8067><0.04347826~Environment~-76~126~50~86.60254~1~1~None~0~0, LightBeam><1149><110><-29~662~112~661~223~-19~-164~-222~0.09565204~0.2173913~0~1~None~0~0, LightSource><1227><212><0.04347826~Environment~-92~130~50~86.60254~1~1~None~0~0, LightBeam><1771><105><-29~662~70~663~164~-16~-164~-222~0.09565204~0.2173913~0~1~None~0~0, LightSource><1841><217><0.02173913~Environment~-106~116~50~86.60254~1~1~None~0~0, LanternOnStick><593.9933><330.9321><-15.6521~-148.8889, LanternOnStick><1830.789><305.7946><15.6521~-161.6889, LanternOnStick><1351.678><322.7683><-9.960426~-137.5111, 
+AmbientSounds: OMNI><AM_ENV-SubTerr.ogg><738.3735><445.155><0.2103033><1, OMNI><RWTW_AmbInterior.ogg><768.5032><323.7><0.3602698><1, 
+FadePalette: 10, 0, 0

@@ -1,0 +1,4 @@
+Template: lnr_settingstemplate_wall-inside
+Palette: 730
+Effects: Darkness-0.3093297-20-20, 
+FadePalette: 3, 0.2397307

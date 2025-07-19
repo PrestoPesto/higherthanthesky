@@ -1,0 +1,11 @@
+Template: lnr_settingstemplate_cave
+DangerType: Flood
+Clouds: 0.8119905
+Grime: 0.2178215
+Palette: 726
+EffectColorA: 8
+EffectColorB: 18
+Effects: LightBurn-0.3015966-300.3542-15.77778, Hue-0.04639949-20-20, 
+PlacedObjects: MudPit><1043.064><18.49041><283.2406~108.2222~143.774, MudPit><2579.916><33.60001><286.0864~111.0667~131.6792, CustomDecal><618.4341><269.1718><-4~414~204~426~218~-5~-295~2~0.173913~0.7173913~0~rustb3~1~1~0.4456522~1~0.2608696~1~0.25~1, CustomDecal><2454><282><4~269~143~276~151~-3~-295~2~0.173913~0.7173913~0~rustb3~1~1~0.8913044~1~0.2608696~1~0.25~1, 
+AmbientSounds: OMNI><RWTW_RotAmb_Goo.ogg><739.7372><278.3596><0.2525363><0.7216029, OMNI><RWTW_AmbDrips_01.ogg><726.7432><515.3998><0.2293363><0.91648, OMNI><RWTW_AmbInterior.ogg><734.371><400.2433><0.3689655><1, 
+FadePalette: 42, 0, 0, 0

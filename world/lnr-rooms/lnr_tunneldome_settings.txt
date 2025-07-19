@@ -1,0 +1,24 @@
+Template: lnr_settingstemplate_cave
+DangerType: Flood
+CeilingDrips: 0.1413043
+WaveSpeed: 0.5042528
+WaveLength: 0.9978736
+WaveAmplitude: 0.04836872
+SecondWaveLength: 0.1666667
+SecondWaveAmplitude: 0
+Palette: 727
+TerrainLight: 1
+TerrainStainAmount: 0.5543478
+TerrainStainBrightness: 0.7282609
+TerrainStainHeight: 0.5652174
+TerrainWaves: 0.7608696
+TerrainEdgeRadius: 0
+TerrainGooHeight: 0.09782609
+TerrainGrain: 1
+TerrainDepth: 4.673913
+TerrainPalette: lonely_road_sand
+Effects: ModifyEffectColorB-0,0.3043478,0.2391304-31-84, 
+PlacedObjects: CustomDecal><471.4255><174.8144><1~252~262~252~261~0~-311~24.00002~0~1~0~plate-tomb~0.7934783~0.04347826~0.7934783~0.04347826~0.7934783~0.04347826~0.7934783~0.04347826, LanternOnStick><375.6998><220.2412><-11~-107, LanternOnStick><816.6954><223.2927><15~-113, LanternOnStick><0><213><-21~-59, LightSource><598.5719><447.5911><0.173913~Environment~-419~112~50~86.60254~0~0~None~0~0, TerrainHandle><918.3145><137.9252><-101~1~49~8~22, TerrainHandle><246.7261><129.0514><-40~0~180~0~57, CustomDecal><133.4183><32.60809><4~714~963~706~967~-13~-160~173~0.2717391~1~0~scav-dome3~0.3043478~0.0326087~0.3043478~0.0326087~0.3043478~0.0326087~0.3043478~0.0326087, CustomDecal><284.8001><81.50659><0~54~641~53~642~-2~-262~78~0~1~0~scav-dome1~0.5760869~0.25~0.5760869~0.25~0.5760869~0.25~0.5760869~0.25, CustomDecal><319.8069><80.44797><0~402~566~403~566~4~-290~26~0.3043478~0.4673913~0~scav-dome2~0.3695652~0.1086956~0.3695652~0.1086956~0.3695652~0.1086956~0.3695652~0.1086956, TerrainHandle><598.3954><91.38736><-137~-4~147~-6~20, LightBeam><628.05><474.999><35~171~83~169~118~-4~-296~-100~0.3999999~0.2173913~0~1~None~0~0, 
+AmbientSounds: OMNI><AM_ENV-SubTerr.ogg><726.6846><448.077><0.2180368><1, SPOT><RWTW_DustStorm_Deep.ogg><801.3622><546.395><0.1630435><1.195652><690.3622><624.395><-19.35535><-22.35535><0><0.1000001, 
+Triggers: Spot<tA>event<tB>MusicEvent<eA>songName<eB>mildew<eA>vol<eB>0.3<eA>prio<eB>0.5<eA>mxThrt<eB>1<eA>loop<eB>0<eA>droneTol<eB>0<eA>rooms<eB>-1<eA>rest<eB>4<eA>fadeIn<eB>0<eA>oneSongPerCycle<eB>0<eA>stopAtDeath<eB>0<eA>stopAtGate<eB>0<tA>multiUse<tB>1<tA>toCycle<tB>-1<tA>fromCycle<tB>0<tA>delay<tB>0<tA>panPos<tB>674.2659<tB>214.8403<tA>fireChance<tB>1<tA>entrance<tB>-1<tA>karma<tB>0<tA>slugcats<tB><tA>pos<tB>606.2065<tB>297.3292<tA>handlePos<tB>-235.2751<tB>-169.0443, 
+FadePalette: 28, 0

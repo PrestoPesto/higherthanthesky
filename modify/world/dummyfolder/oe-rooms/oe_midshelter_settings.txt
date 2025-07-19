@@ -1,0 +1,14 @@
+Template: OE_SettingsTemplate_Ruins
+CeilingDrips: 0
+WaveSpeed: 0.51
+WaveLength: 1
+WaveAmplitude: 0.0001
+SecondWaveLength: 1
+SecondWaveAmplitude: 0.0001
+Clouds: 0.3586957
+EffectColorA: 18
+EffectColorB: 6
+Effects: Contrast-0-289-23, Desaturation-0.06521739-548-26, SkyAndLightBloom-0.07608695-264-237, DayNight-0.5-278-182, LightBurn-0-285-80, 
+PlacedObjects: DayNightSettings><487.3862><359.1465><5~8.660254~76~10, BrokenShelterWaterLevel><448.3209><102.937><, 
+FadePalette: 42, 0.1195652
+WetTerrain: OFF

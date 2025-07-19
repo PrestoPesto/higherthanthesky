@@ -1,0 +1,11 @@
+Template: lnr_settingstemplate_cave
+DangerType: Flood
+CeilingDrips: 0.2061366
+Clouds: 0.02319999
+Grime: 0.2448031
+Palette: 726
+EffectColorA: 8
+EffectColorB: 18
+Effects: Hue-0.04639949-20-20, LightBurn-0.4639946-25.73126-86.88889, 
+PlacedObjects: LightSource><527.7737><279.7556><0.1411796~White~-131.0427~85.97778~-70.23645~154.1581~1~1~None~0~0, LightBeam><459.6511><222.1434><149.4063~542.7555~234.9396~537.0667~116.8375~-54.75552~-330.1166~95.28891~0.197045~0.5390512~0~1~None~0~0, DangleFruit><458.3267><372.3503><-33~-31~2~3, DangleFruit><279.5099><314.1589><0~0~2~3, DangleFruit><655.8717><334.5519><0~0~2~3, LightSource><642.8379><706.0703><0.2999659~White~-265~-75~58~-172.3975~1~1~None~0~0, 
+FadePalette: 42, 0

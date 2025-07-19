@@ -1,0 +1,24 @@
+Template: NONE
+CeilingDrips: 0.1413043
+Clouds: 0.1956522
+Grime: 0.5978261
+RandomItemDensity: 0.1521739
+Palette: 465
+EffectColorA: 0
+EffectColorB: 6
+TerrainLight: 0.5
+TerrainStainAmount: 0
+TerrainStainBrightness: 0.4456522
+TerrainStainHeight: 0.3152174
+TerrainEdgeRadius: 79.56516
+TerrainGooHeight: 1
+TerrainGrain: 0.1652175
+TerrainDepth: -5.16304
+TerrainSkyFade: 0
+Effects: AboveCloudsView-0-681.6958-397.6445, SkyBloom-1-20-20, 
+PlacedObjects: LightSource><342.7284><369.3011><0.7934783~Environment~0~100~-24~-147.3975~1~0~None~0~0, LightSource><939.5579><375.6945><0.7282609~Environment~0~100~87~-101.3975~1~0~None~0~0, 
+AmbientSounds: OMNI><AM_ENV-Outside.ogg><733.0571><474.1974><0.4130435><1.176087, OMNI><AM_ENV-NatWind.ogg><768.1888><376.434><0.2282609><1.195652, OMNI><AM_ENV-CityTone.ogg><746.1537><567.3779><0.25><1, 
+FadePalette: 13, 0.3043478
+MorePalette0: 28, 0.3804348
+BackgroundOffset: 3152.174,120
+BackgroundType: atc_default_vanilla

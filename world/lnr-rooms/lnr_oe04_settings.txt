@@ -1,0 +1,18 @@
+Template: NONE
+Clouds: 0.06959899
+Grime: 0.2313972
+Palette: 725
+EffectColorB: 18
+TerrainLight: 0
+TerrainWaves: 0.1314657
+TerrainEdgeRadius: 41.43995
+TerrainGooHeight: 0.08747665
+TerrainGrain: 0.6056054
+TerrainSkyFade: 1
+TerrainPalette: lonely_road_sand
+Effects: SkyBloom-1-20-20, Hue-0.04347826-25.73126-90.44445, 
+PlacedObjects: TerrainHandle><277.834><280.6655><-3.715607~-103.1111~166.6396~-68.26667~33.51111, TerrainHandle><1129.467><293.531><-209.3271~-113.7778~211.4615~44.08891~44.88889, TerrainHandle><1402.044><350.6894><-89.80206~-14.93335~6.403137~-10.6667~67.64444, BlackSpot><246.5694><101.7408><3.557312~224.1778~74.86145~146.6667~89.09061~0, BlackSpot><1279.868><100.3382><121.6594~246.9333~333.8323~136.7111~348.7729~5.68889, TerrainSunOffset><1271.522><447.1353><-44.82184~7.555542, FloatingDebris><578.5925><511.3443><50~50~1009558387~8~30~1.386787~1.659986~25~-610.6292|1528.212~49.99997|-64.48886~3.259111|1.764667~-0.07114582|1.871135~0.03557312|0~Stardust~0.5~0.06403133v0.4218546v0v0|0.08537476v0.5091662v0v0~0, LanternOnStick><1775.981><448.2886><37.70734~-116.8889, BlinkingFlower><1549.074><477.1011><, BlinkingFlower><1492.367><408.4349><, BlinkingFlower><1429.34><461.4444><, LanternOnStick><1704.132><404.7334><-14.48224~-105.5111, BlinkingFlower><2132.186><522.2332><, BlinkingFlower><2065.075><577.3123><, BlinkingFlower><2036.495><482.0548><, TerrainHandle><1447.451><306.2015><-40~0~0~-181.3333~20, 
+AmbientSounds: OMNI><RWTW_DustStorm_Gusting.ogg><754.6765><530.0867><0.2138705><1, 
+Triggers: Spot<tA>event<tB>MusicEvent<eA>songName<eB>sun droplet<eA>vol<eB>0.4082668<eA>prio<eB>0.5<eA>mxThrt<eB>1<eA>loop<eB>0<eA>droneTol<eB>0<eA>rooms<eB>-1<eA>rest<eB>5<eA>fadeIn<eB>0<eA>oneSongPerCycle<eB>1<eA>stopAtDeath<eB>0<eA>stopAtGate<eB>0<tA>multiUse<tB>0<tA>toCycle<tB>-1<tA>fromCycle<tB>0<tA>delay<tB>0<tA>panPos<tB>1063.275<tB>424.3832<tA>fireChance<tB>1<tA>entrance<tB>-1<tA>karma<tB>0<tA>slugcats<tB><tA>pos<tB>1675.464<tB>513.1832<tA>handlePos<tB>-297.172<tB>-235.8887, 
+FadePalette: 54, 0.2173913, 0.3478261
+MorePalette0: 42, 0.04347826, 0.1413043

@@ -1,0 +1,18 @@
+Template: lnr_settingstemplate_cave
+DangerType: Flood
+CeilingDrips: 0.1630435
+Palette: 726
+TerrainLight: 1
+TerrainStainAmount: 0.8478261
+TerrainStainBrightness: 0.7717391
+TerrainStainHeight: 0.4891304
+TerrainWaves: 1
+TerrainEdgeRadius: 14.34777
+TerrainGooHeight: 0.07608695
+TerrainGrain: 1
+TerrainDepth: 1.84782
+TerrainPalette: lonely_road_sand
+Effects: Ant-0.5108696-30-93, 
+PlacedObjects: LanternOnStick><429.9694><347.5523><-24~-155, LanternOnStick><1646.3><253.4929><29~-161, Mushroom><1965.25><266.2><0~0~2~3, Mushroom><1988.072><272.9096><0~0~2~3, TerrainHandle><1561.449><151.4769><-40~0~134~-21~20, TerrainHandle><1850.055><119.5448><-92~-17~40~0~20, TerrainHandle><2174.867><187.0875><-144~-43~40~0~20, 
+AmbientSounds: OMNI><AM_ENV-SubTerr.ogg><724.3381><446.3204><0.1528194><1, 
+FadePalette: 10, 0.1413043, 0.4891304, 0.4021739

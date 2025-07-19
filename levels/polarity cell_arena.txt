@@ -1,0 +1,15 @@
+DenGroup - ALL - 2,3,4,5
+DenGroup - SIDES - 3,4
+DenGroup - BALL - 2,5
+
+Creature - YellowLizard - dens:BALL - chance:1.0 - amount:4
+
+Creature - TubeWorm - dens:SIDES - chance:0.6 - amount:2-3
+
+Creature - CyanLizard - dens:BALL - chance:0.7 - amount:2 - symbol:1A
+Creature - WhiteLizard - dens:ALL - chance:0.7 - amount:1-2 - symbol:1B
+Creature - BlueLizard - dens:BALL - chance:0.6 - amount:1-2 - symbol:1B
+creature - Centiwing - dens:SIDES - chance: 0.8 - amount:2-3 - symbol:1C
+
+Creature - Vulture - dens:-1 - chance:0.4
+Creature - KingVulture - dens:-1 - chance:0.3 - RARE

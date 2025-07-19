@@ -1,0 +1,14 @@
+Template: OE_SettingsTemplate_RuinsInside
+CeilingDrips: 0
+WaveSpeed: 0.51
+WaveLength: 1
+WaveAmplitude: 0.0001
+SecondWaveLength: 1
+SecondWaveAmplitude: 0.0001
+Clouds: 0.8369565
+EffectColorA: 18
+EffectColorB: 6
+Effects: Desaturation-0-26-79, Contrast-0.04347826-294-23, PixelShift-0.5-32-65, AboveCloudsView-1-267-246, SkyAndLightBloom-0.02173913-274-303, LightRain-0-20-20, DayNight-0.05434782-264-184, 
+PlacedObjects: LightSource><487.3063><511.0581><0.1195652~Environment~633~-504~-599~-196.3975~1~1~None~0~0, DayNightSettings><0.1671143><232.3902><-90~13.66025~76~10, 
+FadePalette: 42, 0.423913
+WetTerrain: OFF

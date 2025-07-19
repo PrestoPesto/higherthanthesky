@@ -1,0 +1,12 @@
+Template: NONE
+Grime: 0.5326087
+RandomItemDensity: 0.2934783
+RandomItemSpearChance: 0
+Palette: 3
+EffectColorA: 4
+EffectColorB: 18
+Effects: Darkness-0-276.876-30, 
+PlacedObjects: LightSource><816.3123><301.1879><0.3272081~EffectColor1~3.557312~70.84448~-343.4365~53.1803~0~0~None~0~0, LightSource><818.1771><243.6667><0.3736068~EffectColor1~21.34381~60.1778~50~86.60254~0~0~None~0~0, 
+FadePalette: 28, 0.5825291
+WetTerrain: OFF
+MorePalette0: 14, 0

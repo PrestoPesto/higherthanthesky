@@ -1,0 +1,5 @@
+kelpColor: 0.30, 0.40, 0.20
+overseersSpawnChance: 0.0
+Subregion: Blooming Vestige
+Subregion: Flood Duct
+Subregion: High Inflorescence

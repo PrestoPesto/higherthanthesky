@@ -1,0 +1,19 @@
+Template: lnr_settingstemplate_cave
+DangerType: FloodAndRain
+Palette: 727
+TerrainLight: 1
+TerrainStainAmount: 1
+TerrainStainBrightness: 0.3478261
+TerrainStainHeight: 0.2391304
+TerrainWaves: 0.3369565
+TerrainEdgeRadius: 179.5652
+TerrainGooHeight: 0.07608695
+TerrainGrain: 0.686956
+TerrainDepth: 4.293471
+TerrainSkyFade: 0
+TerrainPalette: test_dirt_dark
+Effects: LightBurn-1-25-80, ModifyEffectColorB-0,0.2608696,0.2065217-285-69, 
+PlacedObjects: LanternOnStick><690.1486><341.6724><40~-173, LightBeam><457.3059><259.2019><-121~490~-80~490~241~5~-163~-186~0.1391303~0.2065217~0~1~None~0~0, LightSource><525.8964><209.9211><0.1304348~Environment~-168~94~50~86.60254~1~1~None~0~0, TradeOutpost><602.886><313.9172><-171.4614~230.8444, LanternOnStick><396><338><-51~-168, CustomDecal><338.1971><167.5571><0~52~462~47~461~-3~-351~53~0~1~0~scav-dome1~0.7826087~0~0.7826087~0~0.7826087~0~0.7826087~0, LightSource><381><716><0.1847826~White~-117~-182~79~-194.3975~1~1~None~0~0, FloatingDebris><472.1351><357.6025><50~50~1962929806~2~6~0.25~1.315217~41~-98|75~379|-34~0.15|0.3~0|0~0|0~Stardust~0.5~-0.04v0.83v0v0|-0.91v0.46v0v0~0, TerrainHandle><385.1996><205.7365><-40~0~120~-20~46, TerrainHandle><793.8199><206.6629><-207~-16~40~0~41, CustomDecal><762.1185><208.0889><4~240~74~233~80~-1~-444~-126~0~0.4021739~0~lc_entrymarksd~0.7826087~0.05434782~0.7826087~0.05434782~0.7826087~0.05434782~0.7826087~0.05434782, 
+AmbientSounds: OMNI><AM_ENV-SubTerr.ogg><781.2491><504.55><0.2180368><1, SPOT><AM_ENV-WinterTrees.ogg><789.3218><383.5907><0.5><0.726087><441.3218><701.5907><101.6447><-376.3553><0><0.3934784, DIR><RWTW_DustStorm_Deep.ogg><676.3671><197.1621><0.1847826><1.195652><-14.73815><0, 
+FadePalette: 726, 0.3913043
+TerrainFadePalette: test_dirt_dark, 0

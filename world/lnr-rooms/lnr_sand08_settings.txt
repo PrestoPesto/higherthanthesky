@@ -1,0 +1,7 @@
+Clouds: 0.326087
+TerrainLight: 0
+TerrainWaves: 0.6304348
+TerrainEdgeRadius: 101.3043
+TerrainGooHeight: 0.1956522
+TerrainDepth: 0.8695582
+PlacedObjects: TerrainHandle><1878.343><183.823><-149~-3~0~-194~20, TerrainHandle><322.839><172.3686><0~-174~199~-40~20, TerrainHandle><1118.943><65.94174><-371~1~310~11~20, BlackSpot><341.0748><-35.84637><-6~194~66~175~159~0, TerrainSunOffset><1240.066><252.1714><10~-19, 

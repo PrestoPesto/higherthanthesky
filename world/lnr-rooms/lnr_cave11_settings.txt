@@ -1,0 +1,2 @@
+Template: lnr_settingstemplate_cave
+PlacedObjects: LanternOnStick><504.555><204.7056><18~-99, 

@@ -1,0 +1,7 @@
+Template: lnr_settingstemplate_cave
+TerrainEdgeRadius: 73.04343
+TerrainGrain: 0.6108691
+TerrainDepth: 0.5679321
+TerrainPalette: test_dirt_dark
+PlacedObjects: ExitSymbolHidden><666.0397><1265.879><, TerrainHandle><151.7538><177.0666><-40~0~96.91669~12.0889~58.39999, TerrainHandle><683.7858><180.9612><-74.86145~-12.8~40~0~43.46667, TerrainHandle><433.0293><141.7441><-86.9563~8.533325~114.7031~7.111115~20, 
+TerrainFadePalette: badlands_2, 0.06521739, 0.06521739

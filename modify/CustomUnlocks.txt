@@ -1,0 +1,2 @@
+[ADD]LNR1 : Dune Scaffolds, Mud Crypt, Sandstone
+[ADD]LNR2 : Polarity Cell, Cargo Space, Heatsink

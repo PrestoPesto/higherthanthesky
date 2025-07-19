@@ -1,0 +1,4 @@
+Template: lnr_settingstemplate_cave
+Grime: 0.07130432
+Palette: 726
+FadePalette: 21, 0, 0, 0

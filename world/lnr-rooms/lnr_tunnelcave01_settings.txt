@@ -1,0 +1,7 @@
+Template: lnr_settingstemplate_cave
+Grime: 0.1722668
+Palette: 727
+Effects: ModifyEffectColorB-0,0.306669,0.1829371-30-77.64445, 
+PlacedObjects: LanternOnStick><491.8517><221.5517><26.32394~-154.5778, LanternOnStick><735.5624><1116.256><27.0354~-129.6889, 
+AmbientSounds: OMNI><AM_ENV-SubTerr.ogg><756.2631><448.9801><0.2834692><1, 
+FadePalette: 42, 0, 0

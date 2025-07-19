@@ -1,0 +1,11 @@
+DenGroup - ALL - 3,4,5,6
+
+Creature - PinkLizard - dens:ALL - chance:0.7
+Creature - BlueLizard - dens:ALL - chance:0.6
+Creature - WhiteLizard - dens:ALL - chance:0.7
+
+Creature - Dropwig - dens:ALL - chance:0.4 - amount:2-3
+
+Creature - YellowLizard - dens:ALL - chance:0.7 - symbol:A1 - amount:4
+
+Creature - CyanLizard - dens:ALL - chance:0.5 - symbol:A1 - amount:3

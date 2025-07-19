@@ -1,0 +1,8 @@
+Template: lnr_settingstemplate_cave
+DangerType: Flood
+CeilingDrips: 0.1521739
+Palette: 727
+Effects: ModifyEffectColorB-0,0.306669,0.1906703-29.28854-79.77777, 
+PlacedObjects: LanternOnStick><599.9504><718.7098><-37.70728~-140.3556, LanternOnStick><833.601><629.8045><10.67194~-153.1555, LanternOnStick><1099.782><1064.449><-9.249023~-137.5111, CosmeticSlimeMold><341.0814><175.2025><-66.16562~126.3111, SlimeMold><276.795><200.323><0~0~2~3, SlimeMold><357.5103><195.3075><0~0~2~3, SlimeMold><400.0591><183.9516><0~0~2~3, 
+AmbientSounds: OMNI><AM_ENV-SubTerr.ogg><749.6281><448.1932><0.2257697><1, 
+FadePalette: 10, 0, 0

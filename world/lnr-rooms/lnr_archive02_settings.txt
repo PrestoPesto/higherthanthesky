@@ -1,0 +1,6 @@
+Template: lnr_settingstemplate_cave
+Palette: 727
+Effects: ModifyEffectColorB-0,0.3043478,0.2173913-213-87, 
+PlacedObjects: LanternOnStick><211.033><1067.303><-24~-128, LanternOnStick><205.9221><600.3158><-37~-143, LanternOnStick><330.196><1260.541><-19~-73, LanternOnStick><1048.173><302.4004><34~-174, LanternOnStick><585.1244><587.3434><23~-133, LanternOnStick><1385.07><212.3126><-42~-108, LanternOnStick><1551.194><200.5499><34~-147, LanternOnStick><608.4275><269.8424><26~-165, LanternOnStick><249.2157><283.5529><-20~-177, LanternOnStick><1682.934><540.3279><20~-85, 
+AmbientSounds: OMNI><AM_ENV-SubTerr.ogg><734.0528><439.5571><0.2173913><1, 
+FadePalette: 726, 0.05434782, 0.1086956, 0.1847826

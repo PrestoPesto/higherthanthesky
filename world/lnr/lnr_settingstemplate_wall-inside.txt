@@ -1,0 +1,7 @@
+Clouds: 0.3152174
+Grime: 0.2391304
+Palette: 730
+EffectColorA: 11
+EffectColorB: 18
+Effects: LightBurn-0.1413043-9-89, ModifyEffectColorB-0,0.3695652,0.4130435-243-51, 
+AmbientSounds: OMNI><RWTW_AmbWarehouse.ogg><763.4449><264.9551><0.5108696><0.7456522, OMNI><RWTW_AmbIndustrial.ogg><724.9478><335.3069><0.5869565><0.6478261

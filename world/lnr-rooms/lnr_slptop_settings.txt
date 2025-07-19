@@ -1,0 +1,5 @@
+Template: lnr_settingstemplate_wall-inside
+Palette: 730
+PlacedObjects: AdjustableFan><784.4427><361.3083><5~8.660254~0~0.2586962~1~0.9021739, AdjustableFan><784><139><5~8.660254~0~0.2586962~1~0.9021739, ColouredLightSource><784.6202><359.8402><-498~45~FF0000~119^-48~1~False~1~0~0.5~Always~0~100, ColouredLightSource><780><138><-498~45~FF0000~119^-48~1~False~1~0~0.5~Always~0~100, 
+FadePalette: 3, 0
+MorePalette0: 9, 0

@@ -1,0 +1,18 @@
+Template: NONE
+CeilingDrips: 0.5543478
+WaveSpeed: 0.5953352
+WaveLength: 0.3376017
+WaveAmplitude: 0.08506576
+SecondWaveLength: 0.1666667
+SecondWaveAmplitude: 0
+Clouds: 0
+Grime: 0.4924817
+WaterReflectionAlpha: 0.531318
+Palette: 333
+EffectColorA: 2
+EffectColorB: 6
+Effects: Darkness-0.5652174-20-20, Ant-1-304.7375-17.62222, RockFlea-0.3478261-336.2552-70.2222, Fog-0.02173913-24-74, 
+PlacedObjects: LightSource><234.3265><297.6848><0.1521742~Environment~-250~208~50~86.60254~1~0~None~0~0, 
+AmbientSounds: OMNI><AM_ENV-SubTerr.ogg><726.712><441.9347><0.3557295><1, OMNI><RWTW_AmbDrips_01.ogg><719.6573><523.8751><0.360802><1, 
+FadePalette: 21, 0.5978261, 0.6195652
+MorePalette0: 100, 0.5760869, 0.6186593
