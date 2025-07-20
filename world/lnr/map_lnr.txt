@@ -10,13 +10,10 @@ LNR_SAND02: 408><-847.5><408><-847.5><2><Lonely Road
 LNR_BRICK06: -1392><-208.5><-1392><-208.5><1><Lonely Road
 LNR_BRICK07: -2007><-271.5><-2007><-271.5><1><Lonely Road
 LNR_CAVE11: -2566.5><-777><-2566.5><-777><1><Lonely Road
-LNR_OE02: 1434><-1420.5><1434><-1420.5><1><
 LNR_TUNNELCAVE02: -2283><-1777.5><-2283><-1777.5><1><
 LNR_SHAFT01: -48><-999><-48><-999><1><Lonely Road
 LNR_BRICK05: -1140><-670.5><-1140><-670.5><0><Lonely Road
 LNR_CAVE08: -2373><-931.5><-2373><-931.5><1><Lonely Road
-GATE_LNR_OE: 1665><-1423.5><1665><-1423.5><0><
-LNR_SOE: 1576.5><-1501.5><1576.5><-1501.5><1><
 GATE_LNR_SI: 4146><2434.5><4146><2434.5><0><
 LNR_BRICK04: -1083><-1018.5><-1083><-1018.5><1><Lonely Road
 LNR_STUNNEL: -1590><-1294.5><-1590><-1294.5><1><
@@ -85,20 +82,27 @@ LNR_CAVE07: -1851><-595.5><-1851><-595.5><1><Lonely Road
 LNR_SAND05: -1455><-712.5><-1455><-712.5><2><Lonely Road
 LNR_BRICK02: -1143><-766.5><-1143><-766.5><1><Lonely Road
 LNR_SAND08: -1578><-526.5><-1578><-526.5><0><Lonely Road
-LNR_BRIDGE01: -1033.5><-133.5><-1033.5><-133.5><1><Lonely Road
 LNR_SAND10: -1722><-304.5><-1722><-304.5><2><Lonely Road
 LNR_BRIDGE02: -534><-133.5><-534><-133.5><1><Lonely Road
 LNR_BRIDGEBASE: -1177.5><-382.5><-1177.5><-382.5><0><Lonely Road
 LNR_SAND09: -1341><-517.5><-1341><-517.5><0><Lonely Road
 LNR_SAND11: -2545.5><-235.5><-2545.5><-235.5><2><Lonely Road
 LNR_BRICK03: -786><-966><-786><-966><1><Lonely Road
-LNR_SAND14: -3792><-652.5><-3792><-652.5><0><Lonely Road
 LNR_CAVE13: -3411><-1543.5><-3411><-1543.5><1><Lonely Road
-LNR_SAND12: -3345><-187.5><-3345><-187.5><2><Lonely Road
 LNR_CAVE12: -3579><-1066.5><-3579><-1066.5><1><Lonely Road
-LNR_SAND13: -3183><-880.5><-3183><-880.5><0><Lonely Road
 LNR_CAVE10: -2722.5><-850.5><-2722.5><-850.5><1><Lonely Road
-LNR_CAVE14: -3036><-732><-3036><-732><1><Lonely Road
+LNR_CAVE14: -3006><-696><-3006><-696><1><Lonely Road
+LNR_SAND13: -3162><-886.5><-3162><-886.5><0><Lonely Road
+LNR_SAND12: -3363><-184.5><-3363><-184.5><2><Lonely Road
+LNR_BRIDGE01: -1033.5><-133.5><-1033.5><-133.5><1><Lonely Road
+LNR_CAVE15: -3402><-457.5><-3402><-457.5><1><Lonely Road
+GATE_LNR_OE: 1665><-1423.5><1665><-1423.5><2><
+LNR_OE02: 1434><-1420.5><1434><-1420.5><2><
+LNR_SOE: 1576.5><-1501.5><1576.5><-1501.5><2><
+LNR_CAVE16: -3837><-217.5><-3837><-217.5><1><Lonely Road
+LNR_SAND14: -3825><-640.5><-3825><-640.5><0><Lonely Road
+LNR_CLIFF: -4269><37.5><-4269><37.5><0><
+LNR_DOITFORTHEBIT: -4506><346.5><-4506><346.5><1><
 //FloodForge;ROOM|lnr_cave05|merge
 //FloodForge;ROOM|lnr_oe04|merge
 //FloodForge;ROOM|lnr_oe03|merge
@@ -111,13 +115,10 @@ LNR_CAVE14: -3036><-732><-3036><-732><1><Lonely Road
 //FloodForge;ROOM|lnr_brick06|merge
 //FloodForge;ROOM|lnr_brick07|merge
 //FloodForge;ROOM|lnr_cave11|merge
-//FloodForge;ROOM|lnr_oe02|merge
 //FloodForge;ROOM|lnr_tunnelcave02|merge
 //FloodForge;ROOM|lnr_shaft01|merge
 //FloodForge;ROOM|lnr_brick05|merge
 //FloodForge;ROOM|lnr_cave08|merge
-//FloodForge;ROOM|gate_lnr_oe
-//FloodForge;ROOM|lnr_soe|merge
 //FloodForge;ROOM|gate_lnr_si
 //FloodForge;ROOM|lnr_brick04|merge
 //FloodForge;ROOM|lnr_stunnel|merge
@@ -186,20 +187,27 @@ LNR_CAVE14: -3036><-732><-3036><-732><1><Lonely Road
 //FloodForge;ROOM|lnr_sand05|merge
 //FloodForge;ROOM|lnr_brick02|merge
 //FloodForge;ROOM|lnr_sand08|merge
-//FloodForge;ROOM|lnr_bridge01|merge
 //FloodForge;ROOM|lnr_sand10|merge
 //FloodForge;ROOM|lnr_bridge02|merge
 //FloodForge;ROOM|lnr_bridgebase|merge
 //FloodForge;ROOM|lnr_sand09|merge
 //FloodForge;ROOM|lnr_sand11|merge
 //FloodForge;ROOM|lnr_brick03|merge
-//FloodForge;ROOM|lnr_sand14|merge
 //FloodForge;ROOM|lnr_cave13|merge
-//FloodForge;ROOM|lnr_sand12|merge
 //FloodForge;ROOM|lnr_cave12|merge
-//FloodForge;ROOM|lnr_sand13|merge
 //FloodForge;ROOM|lnr_cave10|merge
 //FloodForge;ROOM|lnr_cave14|merge
+//FloodForge;ROOM|lnr_sand13|merge
+//FloodForge;ROOM|lnr_sand12|merge
+//FloodForge;ROOM|lnr_bridge01|merge
+//FloodForge;ROOM|lnr_cave15|merge
+//FloodForge;ROOM|gate_lnr_oe
+//FloodForge;ROOM|lnr_oe02|merge
+//FloodForge;ROOM|lnr_soe|merge
+//FloodForge;ROOM|lnr_cave16|merge
+//FloodForge;ROOM|lnr_sand14|merge
+//FloodForge;ROOM|lnr_cliff|merge
+//FloodForge;ROOM|lnr_doitforthebit|merge
 Connection: LNR_CAVE05,LNR_OE04,41,37,11,16,1,3
 Connection: LNR_CAVE05,LNR_CAVE04,11,6,103,12,2,0
 Connection: LNR_OE04,LNR_OE03,98,19,9,13,3,2
@@ -222,9 +230,8 @@ Connection: LNR_BRICK06,LNR_BRIDGEBASE,35,13,14,85,3,2
 Connection: LNR_BRICK07,LNR_SBRICK02,14,33,15,5,1,3
 Connection: LNR_BRICK07,LNR_SAND11,6,6,313,12,2,0
 Connection: LNR_BRICK07,LNR_SAND10,35,6,3,16,0,2
-Connection: LNR_CAVE10,LNR_CAVE11,45,31,9,3,0,2
-Connection: LNR_CAVE10,LNR_CAVE09,30,7,66,30,0,1
 Connection: LNR_CAVE11,LNR_SAND07,39,18,9,19,0,2
+Connection: LNR_CAVE11,LNR_CAVE10,9,3,45,31,2,0
 Connection: LNR_OE02,GATE_LNR_OE,93,8,2,9,0,2
 Connection: LNR_TUNNELCAVE02,LNR_TUNNELFISHY,6,13,268,59,2,0
 Connection: LNR_TUNNELCAVE02,LNR_TUNNELCAVE01,56,9,9,10,0,2
@@ -300,6 +307,7 @@ Connection: LNR_TUNNEL04,LNR_TUNNEL05,76,8,86,24,3,1
 Connection: LNR_TUNNELCAVE01,LNR_TUNNEL05,57,52,13,12,0,2
 Connection: LNR_TUNNELFISHY,LNR_CAVE13,11,57,94,13,2,0
 Connection: LNR_SAND06,LNR_SAND05,158,25,95,14,0,2
+Connection: LNR_CAVE09,LNR_CAVE10,66,30,30,7,1,0
 Connection: LNR_CAVE09,LNR_SAND13,11,15,243,7,2,0
 Connection: LNR_SAND07,LNR_CAVE07,192,49,7,21,0,2
 Connection: LNR_CAVE07,LNR_SAND08,48,61,9,13,0,2
@@ -309,7 +317,13 @@ Connection: LNR_SAND08,LNR_SAND09,100,12,7,7,0,2
 Connection: LNR_BRIDGE01,LNR_BRIDGE02,198,16,20,16,3,3
 Connection: LNR_BRIDGEBASE,LNR_SAND09,17,15,42,16,2,0
 Connection: LNR_SAND11,LNR_SAND12,3,47,209,11,2,0
-Connection: LNR_SAND13,LNR_SAND14,10,49,141,16,2,0
-Connection: LNR_CAVE12,LNR_CAVE13,28,4,21,151,3,1
+Connection: LNR_SAND14,LNR_SAND13,141,16,10,49,0,2
 Connection: LNR_SAND14,LNR_CAVE12,140,13,25,112,0,1
-Connection: LNR_CAVE14,LNR_CAVE10,89,9,7,25,3,2
+Connection: LNR_CAVE13,LNR_CAVE12,21,151,28,4,1,3
+Connection: LNR_CAVE10,LNR_CAVE14,7,25,89,9,2,3
+Connection: LNR_CAVE14,LNR_CAVE15,11,33,177,7,1,3
+Connection: LNR_CAVE16,LNR_SAND12,99,8,9,25,0,2
+Connection: LNR_CAVE16,LNR_CAVE15,96,3,16,104,3,1
+Connection: LNR_CAVE16,LNR_CLIFF,7,21,103,48,2,0
+Connection: LNR_CLIFF,LNR_SAND14,96,16,8,139,0,2
+Connection: LNR_CLIFF,LNR_DOITFORTHEBIT,5,215,36,12,2,0
