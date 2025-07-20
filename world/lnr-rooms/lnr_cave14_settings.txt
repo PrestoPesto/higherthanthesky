@@ -1,0 +1,2 @@
+Template: lnr_settingstemplate_cave
+Palette: 726

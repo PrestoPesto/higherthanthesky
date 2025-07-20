@@ -1,3 +1,4 @@
 Template: lnr_settingstemplate_cave
 PlacedObjects: LanternOnStick><398.3047><524.0576><23~-141, LanternOnStick><851.303><262.7847><-32~-114, 
+AmbientSounds: SPOT><RWTW_DustStorm_Gusting.ogg><789.4487><536.6933><0.2717391><1><1012.449><209.6933><-55.35535><-37.35535><0><0.1, 
 Triggers: Spot<tA>event<tB>MusicEvent<eA>songName<eB>lanternlight<eA>vol<eB>0.3<eA>prio<eB>0.5<eA>mxThrt<eB>1<eA>loop<eB>0<eA>droneTol<eB>0<eA>rooms<eB>-1<eA>rest<eB>4<eA>fadeIn<eB>91.30434<eA>oneSongPerCycle<eB>0<eA>stopAtDeath<eB>0<eA>stopAtGate<eB>0<tA>multiUse<tB>0<tA>toCycle<tB>-1<tA>fromCycle<tB>0<tA>delay<tB>0<tA>panPos<tB>849.7479<tB>369.3<tA>fireChance<tB>1<tA>entrance<tB>-1<tA>karma<tB>0<tA>slugcats<tB><tA>pos<tB>566.7479<tB>405.3<tA>handlePos<tB>-302.3553<tB>-201.3553, 

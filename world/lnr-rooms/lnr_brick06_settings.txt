@@ -1,1 +1,14 @@
-Template: lnr_settingstemplate_cave
+Template: NONE
+DangerType: Flood
+CeilingDrips: 0.1597373
+Clouds: 0.01546644
+Grime: 0.1133376
+RandomItemDensity: 0.3994678
+RandomItemSpearChance: 0.4474637
+Palette: 726
+EffectColorA: 8
+EffectColorB: 18
+Effects: SkyAndLightBloom-0.04639949-20-20, Hue-0-18.61667-68.39999, 
+PlacedObjects: LanternOnStick><382.1569><1290.866><14.22916~-109.7778, LanternOnStick><207.3037><305.2012><-31.30417~-132.5333, LanternOnStick><574.8239><343.1165><32.72708~-147.4667, CustomDecal><497.1886><1187.748><0.7114868~112.5333~94.07086~103.2889~82.6875~0.7111206~-477.3885~-290.8444~0.6341258~0.6906702~0~scavmark ghost~0.6314651~0~0.6314651~0~0.6314651~0.6109261~0.6314651~0.6109261, 
+AmbientSounds: OMNI><RWTW_DustStorm_Deep.ogg><770.8582><551.6682><0.2282609><1, SPOT><RWTW_DustStorm_Gusting.ogg><796.12><407.2467><0.1906698><1><640.1564><1228.602><-35.35534><-35.35534><0><0.1, SPOT><RWTW_DustStorm_Gusting.ogg><1039.849><370.1413><0.1984041><1><1245.306><103.4746><-35.35534><-35.35534><0><0.1, 
+FadePalette: 30, 0.1956522, 0.1956522

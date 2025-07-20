@@ -1,0 +1,2 @@
+Template: lnr_settingstemplate_cave
+FadePalette: 728, 0.1413043, 0.3586957, 0.5108696, 0.6847826, 0.8586956
