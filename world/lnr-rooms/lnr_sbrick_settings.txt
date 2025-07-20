@@ -1,1 +1,2 @@
 Template: lnr_settingstemplate_cave
+PlacedObjects: BetterDecal><231.3276><123.8515><-314~-149~-316~244~444~243~394~-121~487~-134~False~BURN~SCREEN~NORMAL~0.6195652~1~0~True~True~True~True~True~True~hugeshiny~0.5~0.3043478~1~1~1~1~0.5~0.3043478~1~1~1~1~0.5~0.3043478~1~1~1~1~0.5~0.3043478~1~1~1~1, BetterDecal><824><110><-314~-149~-316~244~444~243~394~-121~-373~-244~False~BURN~SCREEN~NORMAL~0.6195652~1~0~True~True~True~True~True~True~hugeshiny~0.5~0.3043478~1~1~1~1~0.5~0.3043478~1~1~1~1~0.5~0.3043478~1~1~1~1~0.5~0.3043478~1~1~1~1, 

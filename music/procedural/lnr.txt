@@ -16,6 +16,7 @@ Layer : TH_LNR - KICK, TH_LNR - SHAKER
 Layer : TH_LNR - KICK, TH_LNR - SHAKER, TH_LNR - HAT
 Layer : {Lonely Road}TH_LNR - TAPS1, TH_LNR - SHARE1
 Layer : {Low Pass}TH_LNR - TRAP2
+Layer : {Shrine of Pests}TH_LNR - SHITFUCKAMEN
 Layer : {Lonely Road}TH_LNR - BASS1
 Layer : {Low Pass}TH_LNR - BASS2
 Layer : {Lonely Road}TH_LNR - LEAD1, TH_LNR - ARPS1
