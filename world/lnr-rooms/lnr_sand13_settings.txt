@@ -2,6 +2,7 @@ Clouds: 0.1956522
 TerrainStainAmount: 0.8478261
 TerrainStainBrightness: 0.4021739
 TerrainStainHeight: 0.3913043
+TerrainWaves: 0.5652174
 TerrainGooHeight: 0.1304348
 TerrainDepth: 0.05434096
 TerrainSkyFade: 1

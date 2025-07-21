@@ -3,7 +3,8 @@ Grime: 0.2391304
 TerrainStainAmount: 0.4673913
 TerrainStainBrightness: 0.6521739
 TerrainStainHeight: 0.2282609
-TerrainWaves: 0
+TerrainWaves: 0.2065217
+TerrainGooHeight: 0.1521739
 TerrainGrain: 1
 TerrainPalette: lonely_road_sand
 Effects: FairyParticles-0.3913043-20-20, 

@@ -2,9 +2,9 @@ TerrainLight: 0
 TerrainStainAmount: 0.6369218
 TerrainStainBrightness: 0.6304348
 TerrainStainHeight: 0.2826087
-TerrainWaves: 0.423913
+TerrainWaves: 0.5543478
 TerrainEdgeRadius: 81.73908
-TerrainGooHeight: 0.2282609
+TerrainGooHeight: 0.1521739
 TerrainGrain: 0.5978261
 TerrainDepth: -3.206528
 TerrainSkyFade: 1

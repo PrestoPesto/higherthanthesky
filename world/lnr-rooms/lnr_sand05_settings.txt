@@ -1,6 +1,6 @@
 Clouds: 0.3152174
 TerrainLight: 0
-TerrainWaves: 0.4782609
+TerrainWaves: 1
 TerrainGooHeight: 0.05434782
 TerrainGrain: 0.6086956
 Effects: FairyParticles-0.5108696-20-20, 

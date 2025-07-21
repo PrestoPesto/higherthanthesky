@@ -1,4 +1,5 @@
 Clouds: 0.3152174
+TerrainWaves: 0.2282609
 TerrainGooHeight: 0.09782609
 TerrainDepth: -0.1087025
 TerrainSkyFade: 1

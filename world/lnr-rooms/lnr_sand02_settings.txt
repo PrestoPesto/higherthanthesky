@@ -8,12 +8,12 @@ TerrainStainAmount: 0.6956522
 TerrainStainBrightness: 1
 TerrainStainHeight: 0.6195652
 TerrainWaves: 0.3804348
-TerrainEdgeRadius: 84.78261
-TerrainGooHeight: 1
+TerrainEdgeRadius: 65.21739
+TerrainGooHeight: 0.1413043
 TerrainGrain: 0.7282609
 TerrainDepth: -2.826087
 TerrainSkyFade: 1
-TerrainPalette: test_dirt_dark
+TerrainPalette: lonely_road_sand
 Effects: SkyBloom-0-1-58, Hue-0-255-62, RockFlea-0.1304348-0-0, Beetle-0.1086956-286-8, FairyParticles-1-279-129, 
 PlacedObjects: TerrainHandle><90.5553><320.5457><-80~-10~414~-133~23, TerrainHandle><1142.588><299.6177><-508~-181~179~-39~35, TerrainRubble><623.1253><209.5936><-208~59, CustomDecal><1191.928><417.3134><-2~84~127~78~130~-1~-293~-238~0~0.6956522~0~tag junk5~0.2282609~0.2826087~0.2282609~0.2826087~0.2282609~0.2826087~0.2282609~0.2826087, FairyParticleSettings><280.3022><391.5298><145~-81.33978~0~1~1~0~1~2.383704~70.86945~495.2173~402.1739~630.4348~5~18.26095~105.6522~164.3478~0.04347826~0.06956482~0.1195652~0.1956522~0.3804348~0.5108696~1~0.2826087~7.790894~Leaf~SIN_IO~SIN_IO~0~0~0, FloatingDebris><303.3326><414.1821><50~50~1045745296~30~30~0.3804355~2.097826~28~-321|991~66|-142~2.1|1.27~0|0~-0.18|0~Stardust~0.6847826~-0.31v0.81v0v0|-0.62v0.09v0v0~0, TerrainHandle><1321.55><240.7518><-69~14~42~-109~32, TerrainSunOffset><632.815><349.826><11~-8, 
 AmbientSounds: OMNI><RWTW_DustStorm_Gusting.ogg><778.0515><535.0245><0.3043478><1, 

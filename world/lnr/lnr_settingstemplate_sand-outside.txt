@@ -23,6 +23,6 @@ TerrainStainHeight: 0.2282609
 TerrainWaves: 0
 TerrainGrain: 1
 TerrainPalette: lonely_road_sand
-Effects: ModifyEffectColorB-0.04,0.3043478,0.5-343-73, 
+Effects: ModifyEffectColorB-0.04,0.4,0.5-343-73, 
 AmbientSounds: OMNI><RWTW_DustStorm_Gusting.ogg><773.6953><535.1924><0.3043478><1, 
 FadePalette: 42, 0
