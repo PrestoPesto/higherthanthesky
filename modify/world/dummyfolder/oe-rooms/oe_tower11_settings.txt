@@ -1,9 +1,0 @@
-DangerType: Flood
-Clouds: 0.7934783
-Grime: 0.1847826
-BkgDroneVolume: 0
-EffectColorB: 18
-Effects: Darkness-0.1413043-25-129, 
-PlacedObjects: LightFixture><853.0779><393.6021><RedLight~17.32051~-10~30, DevToken><472.5532><391.5356><28~-44~0~0~0~~~0~0~0~1, 
-AmbientSounds: OMNI><SO_WAT-LilDrips.ogg><848.8854><632.8528><0.3043478><1, OMNI><AM_WIN-StrongWnd2.ogg><849.9929><554.6998><0.173913><1, OMNI><AM_IND-SuperStructure.ogg><852.4448><478.7956><0.3586957><0.7456522, 
-FadePalette: 8, 0.6521739

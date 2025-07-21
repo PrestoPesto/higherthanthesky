@@ -1,7 +1,0 @@
-Template: OE_SettingsTemplate_Ruins
-EffectColorA: 18
-EffectColorB: 13
-Effects: PixelShift-0.5-32-65, AboveCloudsView-1-20-78, SkyBloom-1-248-252, DayNight-0.4456522-252-192, 
-PlacedObjects: DayNightSettings><434.8599><546.8927><5~8.660254~76~10, DeadSeedCob><1243.558><326.0556><, DeadSeedCob><2133.841><275.8217><, DeadSeedCob><1998.941><196.9404><, DeadSeedCob><915.7018><229.8059><, DeadSeedCob><1632.625><258.8435><, FirecrackerPlant><485.8865><139.6462><0~0~2~3, FirecrackerPlant><591.586><161.6144><0~0~2~3, FirecrackerPlant><614.9363><157.5727><0~0~2~3, FirecrackerPlant><428.9484><294.4744><0~0~2~3, SeedCob><1480.557><191.0533><-137~178~7~10, SeedCob><1547.889><213.1436><-31~74~7~10, 
-AmbientSounds: OMNI><AM_ENV-Outside.ogg><772.1741><608.5649><0.4456522><1, DIR><AM_ENV-Pasture.ogg><586.0554><579.4421><0.5><1><-76.43895><0, DIR><AM_ENV-LightWind.ogg><742.0506><522.2657><0.3478261><1><-2.385944><0, 
-FadePalette: 42, 0.3152174, 0.3152174, 0.3152174

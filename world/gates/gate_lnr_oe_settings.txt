@@ -1,3 +1,9 @@
-Template: lnr_settingstemplate_cave
-Effects: ModifyEffectColorB-0.9279888,0.7783966,0.3685349-30-71.95556, 
+Template: NONE
+Clouds: 0.8119905
+Grime: 0.18
+Palette: 726
+EffectColorA: 8
+EffectColorB: 18
+Effects: LightBurn-0.3015966-300.3542-15.77778, Hue-0.04639949-20-20, ModifyEffectColorB-0.9279888,0.7783966,0.3685349-30-71.95556, 
 PlacedObjects: ExitSymbolShelter><127.5589><136.3165><, 
+AmbientSounds: OMNI><RWTW_AmbInterior.ogg><719.4348><326.8278><0.337602><0.8329624, 

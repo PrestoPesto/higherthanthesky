@@ -1,9 +1,11 @@
 Template: NONE
+Clouds: 0.173913
 Grime: 0.1288041
 Palette: 726
 EffectColorA: 18
 EffectColorB: 18
-Effects: SkyBloom-1-20-20, ModifyEffectColorA-0.06959915,0.1288043,0.693331-34.98022-93.28889, 
+Effects: SkyBloom-1-20-20, ModifyEffectColorA-0.06959915,0.1940216,0.693331-34.98022-93.28889, 
+PlacedObjects: LightSource><334.0829><245.86><0.2282609~Environment~-274~62~50~86.60254~1~1~None~0~0, LightSource><1754><237><0.2282609~Environment~-274~62~50~86.60254~1~1~None~0~0, 
 AmbientSounds: OMNI><RWTW_DustStorm_Deep.ogg><758.9241><547.2999><0.1365376><1, OMNI><RWTW_AmbInterior.ogg><746.144><330.6518><0.3689655><1, 
 FadePalette: 54, 0.665059, 0.5645267
 MorePalette0: 39, 0.1701315, 0.1778644

@@ -1,8 +1,0 @@
-Template: OE_SettingsTemplate_RuinsInside
-RainIntensity: 0.1513042
-Palette: 54
-EffectColorB: 18
-Effects: Contrast-0-291-19, Desaturation-0-19-80, LightBurn-0.1304348-281-75, SilenceWater-0.5217391-259-237, WaterDepth-0.04347826-265-295, 
-PlacedObjects: LightSource><487.6354><3035.585><0.3695652~Environment~637~-2915~-358~-137.3975~1~0~None~0~0, LightBeam><403.9096><1660.813><-20~1471~249~1474~359~49~-326.9948~903.875~0.3891303~0.7826087~0.3695652~1~None~0~0, Vine><549.3016><2982.474><-148~147, Vine><550.4859><2993.301><-120~103, Vine><592.4205><2982.684><-311~180, DayNightSettings><504.9341><1984.828><5~8.660254~76~10, DangleFruit><541.9478><2597.97><0~0~2~3, DangleFruit><558.717><2547.197><0~0~2~3, 
-AmbientSounds: OMNI><SO_WAT-Splashes.ogg><742.9403><442.9409><0.1521739><1, 
-FadePalette: 20, 0.1413043, 0.2717391, 0.4347826, 0.6195652

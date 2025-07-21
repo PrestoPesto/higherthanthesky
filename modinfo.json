@@ -1,10 +1,10 @@
 {
 	"id": "presto.htts",
-	"version": "0.1.0",
+	"version": "0.1.1",
 	"name": "Higher Than The Sky",
 	"authors": "PrestoPesto",
 	"description": "Ascend an ancient mountain and follow the civilization that called it home",
-	"requirements": ["crs"],
-	"requirements_names": ["Custom Regions Support"],
+	"requirements": ["crs", "moreslugcats", "regionkit", "ludocrypt.betterdecals"],
+	"requirements_names": ["Custom Regions Support", "More Slugcats Expansion", "RegionKit", "BetterDecals"],
 	"checksum_override_version": true
 }

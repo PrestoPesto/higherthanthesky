@@ -1,0 +1,3 @@
+Template: oe_settingstemplate_ruins
+Effects: AboveCloudsView-0-20-20, LightBurn-0-272-86, SkyAndLightBloom-0.1086956-303-303, 
+FadePalette: 42, 0.7065217

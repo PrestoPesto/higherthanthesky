@@ -1,3 +1,0 @@
-[MERGE]
-PlacedObjects: LightSource><162.6305><536.4387><0.334941~EffectColor1~1.422913~66.57779~67.78644~-113.2197~0~1~None~0~0, 
-[ENDMERGE]

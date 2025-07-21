@@ -1,1 +1,8 @@
-Template: oe_settingstemplate_cave
+Template: NONE
+Grime: 0.2717391
+Palette: 53
+EffectColorA: 18
+EffectColorB: 13
+Effects: Moth-0.3586957-36-81, DayNight-0.09782609-286-72, Contrast-0.05434782-269-20, LightRain-0.07608695-39-116, ModifyEffectColorB-0,0.1956522,0.5760869-347-118, SkyAndLightBloom-0-65-161, 
+PlacedObjects: LightSource><561.6544><3512.127><0.2717391~Environment~-432~173~50~86.60254~1~1~None~0~0, LightBeam><443.1979><3529.529><31~411~184~412~254~-8~-274~-286~0.1934781~0.4673913~0~1~None~0~0, LightSource><561><3853><0.4565217~Environment~-50~-242~104~-271.3975~1~1~None~0~0, LightSource><564.8905><2954.893><0.1413043~Environment~-305~51~312~-306.3975~0~1~None~0~0, LightSource><562><2565.001><0.1413043~Environment~-305~51~312~-306.3975~0~1~None~0~0, LightSource><565><2144><0.1413043~Environment~-305~51~312~-306.3975~0~1~None~0~0, LightSource><552><1818><0.2717391~Environment~-432~173~50~86.60254~1~1~None~0~0, LightSource><563><1230><0.1413043~Environment~-305~51~312~-306.3975~0~1~None~0~0, LightSource><565><785><0.1413043~Environment~-305~51~312~-306.3975~0~1~None~0~0, LightSource><308><408><0.2173913~Environment~-305~51~312~-306.3975~0~1~None~0~0, LightSource><559><407><0.2173913~Environment~-305~51~312~-306.3975~0~1~None~0~0, 
+FadePalette: 42, 0.5652174, 0.5869565, 0.6195652, 0.6521739, 0.6630435
