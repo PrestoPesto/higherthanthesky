@@ -1,5 +1,11 @@
+batDepleteCyclesMax: 6
+overseersSpawnChance: 0
+overseersMin: 0
+overseersMax: 0
+playerGuideOverseerSpawnChance: 0
 kelpColor: 0.30, 0.40, 0.20
-overseersSpawnChance: 0.0
+pupSpawnChance: 0.1
+Room Setting Templates: FloodDuct, BloomOutside, BloomInside, HighOutside, HighInside
 Subregion: Blooming Vestige
 Subregion: Flood Duct
 Subregion: High Inflorescence
