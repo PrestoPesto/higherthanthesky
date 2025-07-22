@@ -4,4 +4,4 @@ BLV_OUTERLOT: -420><-79.5><-420><-79.5><0><
 //FloodForge;ROOM|offscreendenblv
 //FloodForge;ROOM|blv_firsttunnel|merge
 //FloodForge;ROOM|blv_outerlot|merge
-Connection: BLV_OUTERLOT,BLV_FIRSTTUNNEL,66,7,30,50,3,1
+Connection: BLV_FIRSTTUNNEL,BLV_OUTERLOT,30,50,77,3,1,3
