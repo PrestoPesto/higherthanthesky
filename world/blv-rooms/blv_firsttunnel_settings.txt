@@ -1,6 +1,11 @@
 Template: NONE
 DangerType: Flood
 CeilingDrips: 0.7065217
+WaveSpeed: 0.6417349
+WaveLength: 0.4304003
+WaveAmplitude: 0.1391986
+SecondWaveLength: 0.1666667
+SecondWaveAmplitude: 0
 Clouds: 0.4562613
 Grime: 0.1195652
 Palette: 731

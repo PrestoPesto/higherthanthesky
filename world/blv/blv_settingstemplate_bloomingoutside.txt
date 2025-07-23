@@ -1,0 +1,8 @@
+Clouds: 0.1822918
+Grime: 0.173913
+Palette: 732
+EffectColorA: 14
+EffectColorB: 6
+Effects: ModifyEffectColorB-0,0.423913,0.423913-20-20, LightBurn-0-306-65, SkyAndLightBloom-0.04347826-304-11, Moth-0.3325295-19.32813-147.3906, Beetle-0.2474644-265.4927-122.4896, FairyParticles-0.3093298-23.59686-104.7031, 
+AmbientSounds: OMNI><AM_ENV-CityTone.ogg><750.3837><568.5873><0.5><0.9217392, OMNI><AM_ENV-WinterTrees.ogg><751.8606><382.1434><0.3898441><1, OMNI><AM_ENV-Outside.ogg><728.9485><473.5244><0.5077329><1
+ 
