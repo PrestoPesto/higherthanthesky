@@ -9,3 +9,5 @@ Room Setting Templates: FloodDuct, BloomOutside, BloomInside, HighOutside, HighI
 Subregion: Blooming Vestige
 Subregion: Flood Duct
 Subregion: High Inflorescence
+Room_Attr: BLV_OUTERLOT: ZoopLizard-Forbidden,
+Room_Attr: BLV_LOT01: ZoopLizard-Like,
