@@ -110,7 +110,6 @@ LNR_CAVE06 : 2-Leech-10, 3-Leech-8
 LNR_BRICK06 : 3-Cicada-2
 LNR_BRICK07 : 3-Dropwig
 LNR_BRICK04 : 3-BigNeedleWorm, 4-SmallNeedleWorm-4
-OFFSCREEN : 0-Vulture-3, 0-Scavenger-15, 0-BigEel
 LNR_LPOBLIGATORYBALLSROOM : 2-YellowLizard, 3-YellowLizard, 4-YellowLizard, 6-YellowLizard
 LNR_LP01 : 5-BlueLizard
 LNR_LPINSIDE01 : 3-WhiteLizard
@@ -143,4 +142,5 @@ LNR_BRIDGEBASE : 2-Cicada-2, 3-Cicada, 4-PinkLizard, 5-WhiteLizard
 LNR_BRICK03 : 2-PoleMimic-{16}, 5-PinkLizard, 6-BlueLizard
 LNR_SAND13 : 2-GreenLizard, 3-GreenLizard, 5-PoleMimic-{16}
 LNR_CAVE16 : 3-SpitLizard-{Mea}
+OFFSCREEN : 0-Vulture-3, 0-Scavenger-15, 0-BigEel
 END CREATURES

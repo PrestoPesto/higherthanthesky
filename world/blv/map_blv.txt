@@ -8,6 +8,12 @@ BLV_OUTERLOT: -93><-36><-93><-36><0><Blooming Vestige
 OFFSCREENDENBLV: -345><187.5><-345><187.5><0><
 BLV_PIPE03: -498><-163.5><-498><-163.5><1><
 BLV_LOT01: -699><-13.5><-699><-13.5><0><Blooming Vestige
+BLV_DUCT01: -687><-418.5><-687><-418.5><2><
+BLV_TOPPIPES03: -1011><-43.5><-1011><-43.5><1><
+BLV_TOPPIPES04: -1038><-10.5><-1038><-10.5><1><
+BLV_PIPE04: -726><-163.5><-726><-163.5><1><Blooming Vestige
+BLV_PIPE05: -711><-229.5><-711><-229.5><1><
+BLV_DUCT02: -831><-322.5><-831><-322.5><1><
 //FloodForge;ROOM|blv_pipe01|merge
 //FloodForge;ROOM|blv_firsttunnel|merge
 //FloodForge;ROOM|blv_spipe01|merge
@@ -18,11 +24,23 @@ BLV_LOT01: -699><-13.5><-699><-13.5><0><Blooming Vestige
 //FloodForge;ROOM|offscreendenblv
 //FloodForge;ROOM|blv_pipe03|merge
 //FloodForge;ROOM|blv_lot01|merge
+//FloodForge;ROOM|blv_duct01|merge
+//FloodForge;ROOM|blv_toppipes03|merge
+//FloodForge;ROOM|blv_toppipes04|merge
+//FloodForge;ROOM|blv_pipe04|merge
+//FloodForge;ROOM|blv_pipe05|merge
+//FloodForge;ROOM|blv_duct02|merge
 Connection: BLV_PIPE01,BLV_SPIPE01,41,31,17,11,1,3
+Connection: BLV_PIPE01,BLV_PIPE03,4,22,44,20,2,0
 Connection: BLV_PIPE01,BLV_PIPE02,45,14,7,9,0,2
 Connection: BLV_PIPE01,BLV_FIRSTTUNNEL,14,4,30,50,3,1
 Connection: BLV_PIPE02,BLV_OUTERLOT,82,32,77,3,1,3
-Connection: BLV_OUTERLOT,BLV_TOPPIPES01,22,16,49,6,2,0
 Connection: BLV_TOPPIPES01,BLV_TOPPIPES02,6,6,55,3,2,0
-Connection: BLV_LOT01,BLV_TOPPIPES02,132,28,8,3,0,2
-Connection: BLV_PIPE03,BLV_PIPE01,44,20,4,22,0,2
+Connection: BLV_TOPPIPES01,BLV_OUTERLOT,49,6,22,16,0,2
+Connection: BLV_TOPPIPES02,BLV_LOT01,8,3,132,28,2,0
+Connection: BLV_PIPE04,BLV_PIPE03,103,22,7,15,0,2
+Connection: BLV_PIPE05,BLV_PIPE03,42,27,4,6,0,2
+Connection: BLV_DUCT01,BLV_FIRSTTUNNEL,149,10,13,13,0,3
+Connection: BLV_PIPE05,BLV_DUCT02,20,3,77,30,3,1
+Connection: BLV_LOT01,BLV_TOPPIPES03,7,18,51,8,2,0
+Connection: BLV_TOPPIPES04,BLV_TOPPIPES03,37,16,36,27,0,2

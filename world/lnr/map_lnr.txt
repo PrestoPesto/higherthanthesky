@@ -21,7 +21,6 @@ LNR_SCAVE: -987><-1174.5><-987><-1174.5><0><
 LNR_SLPTOP: 3597><2419.5><3597><2419.5><1><
 LNR_SBRICK02: -2010><-177><-2010><-177><0><Lonely Road
 LNR_SBRICK: -1179><-834><-1179><-834><1><Lonely Road
-OFFSCREENDENLNR: 27><-430.5><27><-430.5><0><Lonely Road
 LNR_LPTUBE: 3729><2284.5><3729><2284.5><1><
 LNR_LPOBLIGATORYBALLSROOM: 3454.5><1666.5><3454.5><1666.5><2><Low Pass
 LNR_LP01: 3474><2200.5><3474><2200.5><2><Low Pass
@@ -103,6 +102,7 @@ LNR_CAVE16: -3837><-217.5><-3837><-217.5><1><Lonely Road
 LNR_DOITFORTHEBIT: -4506><346.5><-4506><346.5><1><
 LNR_CLIFF: -4269><37.5><-4269><37.5><0><
 LNR_SAND14: -3825><-640.5><-3825><-640.5><0><Lonely Road
+OFFSCREENDENLNR: -78><-511.5><-78><-511.5><0><Lonely Road
 //FloodForge;ROOM|lnr_cave05|merge
 //FloodForge;ROOM|lnr_oe04|merge
 //FloodForge;ROOM|lnr_oe03|merge
@@ -126,7 +126,6 @@ LNR_SAND14: -3825><-640.5><-3825><-640.5><0><Lonely Road
 //FloodForge;ROOM|lnr_slptop|merge
 //FloodForge;ROOM|lnr_sbrick02|merge
 //FloodForge;ROOM|lnr_sbrick|merge
-//FloodForge;ROOM|offscreendenlnr
 //FloodForge;ROOM|lnr_lptube|merge
 //FloodForge;ROOM|lnr_lpobligatoryballsroom|merge
 //FloodForge;ROOM|lnr_lp01|merge
@@ -208,6 +207,7 @@ LNR_SAND14: -3825><-640.5><-3825><-640.5><0><Lonely Road
 //FloodForge;ROOM|lnr_doitforthebit|merge
 //FloodForge;ROOM|lnr_cliff|merge
 //FloodForge;ROOM|lnr_sand14|merge
+//FloodForge;ROOM|offscreendenlnr
 Connection: LNR_CAVE05,LNR_OE04,41,37,11,16,1,3
 Connection: LNR_CAVE05,LNR_CAVE04,11,6,103,12,2,0
 Connection: LNR_OE04,LNR_OE03,98,19,9,13,3,2
