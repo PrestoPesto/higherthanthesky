@@ -1,5 +1,6 @@
-Template: blv_settingstemplate_bloominside
+Template: NONE
 DangerType: Flood
+Clouds: 0.3943953
 Grime: 0.2138702
 Palette: 733
 EffectColorA: 14

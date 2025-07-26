@@ -1,0 +1,2 @@
+Template: blv_settingstemplate_bloominginside
+FadePalette: 731, 1

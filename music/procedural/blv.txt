@@ -1,0 +1,23 @@
+TH_BLV - KICK : NEUTRAL
+TH_BLV - NOISE-BLV : NEUTRAL
+TH_BLV - BASS-BLV : NEUTRAL
+TH_BLV - BREAK-BLV : NEUTRAL
+TH_BLV - ARPS-BLV : NEUTRAL
+TH_BLV - BIG-BLV-BLV : NEUTRAL
+TH_BLV - LEAD-BLV : NEUTRAL
+TH_BLV - NOISE-FD : NEUTRAL
+TH_BLV - BREAK-FD : NEUTRAL
+TH_BLV - BASS-FD : NEUTRAL
+TH_BLV - PIZZ-FD : NEUTRAL
+
+Layer : TH_BLV - KICK
+Layer : {Blooming Vestige}TH_BLV - NOISE-BLV
+Layer : {Flood Duct}TH_BLV - NOISE-FD
+Layer : {Blooming Vestige}TH_BLV - BASS-BLV
+Layer : {Flood Duct}TH_BLV - BASS-FD
+Layer : {Blooming Vestige}TH_BLV - BREAK-BLV
+Layer : {Flood Duct}TH_BLV - BREAK-FD
+Layer : {Blooming Vestige}TH_BLV - ARPS-BLV, TH_BLV - BIG-BLV
+Layer : {Flood Duct}TH_BLV - PIZZ-FD
+Layer : {Blooming Vestige}TH_BLV - BIG-BLV, TH_BLV - ARPS-BLV, TH_BLV - LEAD
+Layer : {Blooming Vestige}TH_BLV - LEAD-BLV

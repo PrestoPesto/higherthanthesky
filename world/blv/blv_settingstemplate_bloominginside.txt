@@ -1,7 +1,8 @@
 DangerType: Flood
+Clouds: 0.5
 Grime: 0.2138702
 Palette: 733
 EffectColorA: 14
 EffectColorB: 6
 Effects: ModifyEffectColorB-0,0.4149346,0.4226676-20-20, SkyAndLightBloom-0.0386661-268.3386-49.92083, 
-AmbientSounds: OMNI><AM_ENV-CityTone.ogg><800.8028><565.2303><0.5><0.9217392, 
+AmbientSounds: OMNI><AM_ENV-CityTone.ogg><800.8028><565.2303><0.5><0.9217392

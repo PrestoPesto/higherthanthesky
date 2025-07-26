@@ -1,4 +1,5 @@
 Clouds: 0.1822918
+Clouds: 0.15
 Grime: 0.173913
 Palette: 732
 EffectColorA: 14

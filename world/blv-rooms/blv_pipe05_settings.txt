@@ -1,0 +1,2 @@
+Effects: WaterDepth-0.03866627-25.73123-76.24479, 
+PlacedObjects: LightSource><413.4362><308.564><0.1184102~Environment~22.76666~223.7939~50~86.60254~0~0~None~0~0, 

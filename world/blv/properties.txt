@@ -5,9 +5,12 @@ overseersMax: 0
 playerGuideOverseerSpawnChance: 0
 kelpColor: 0.30, 0.40, 0.20
 pupSpawnChance: 0.1
-Room Setting Templates: FloodDuct, BloomOutside, BloomInside, HighOutside, HighInside
+Room Setting Templates: FloodDuct, BloomingOutside, BloomingInside, HighOutside, HighInside
 Subregion: Blooming Vestige
 Subregion: Flood Duct
 Subregion: High Inflorescence
-Room_Attr: BLV_OUTERLOT: ZoopLizard-Forbidden,
+Room_Attr: BLV_DUCT03: Vulture-Forbidden,KingVulture-Forbidden,
+Room_Attr: BLV_OUTERLOT: Vulture-Forbidden,KingVulture-Forbidden,ZoopLizard-Forbidden,
+Room_Attr: BLV_PIPE04: Vulture-Forbidden,KingVulture-Forbidden,
+Room_Attr: BLV_FIRSTTUNNEL: PinkLizard-Forbidden,BlueLizard-Forbidden,WhiteLizard-Forbidden,EelLizard-Forbidden,Salamander-Forbidden,
 Room_Attr: BLV_LOT01: ZoopLizard-Like,
