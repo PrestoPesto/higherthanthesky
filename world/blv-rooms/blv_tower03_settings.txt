@@ -1,0 +1,2 @@
+Template: blv_settingstemplate_bloominginside
+PlacedObjects: CustomDecal><156.2685><43.8015><12.80624~550.1156~589.2458~543.001~501.7365~-46.2448~-276.7573~-2.134338~0~1~0~rustb2~0.5~1~0.5~1~0.5~1~0.5~1, 
