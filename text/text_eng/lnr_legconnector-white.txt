@@ -1,0 +1,6 @@
+﻿0lnr_legconnector-white
+Presto: These few bridges connect Low Pass to the rest of Lonely Road.
+
+Presto: I considered naming this room "THISGOESTOSKYISLANDSTURNAROUND" so people with dev tools on would go away.
+
+Presto: I then realized that was a stupid idea.

@@ -2,5 +2,5 @@ Template: blv_settingstemplate_bloominginside
 Clouds: 0.3479959
 EffectColorA: 14
 Effects: ModifyEffectColorA-0.951189,0.5,0.5-15.77084-111.1062, 
-PlacedObjects: LightSource><697.9969><257.9843><0.5592065~EffectColor1~19.20935~130.5927~50~86.60254~0~0~None~0~0, LightSource><857.6281><259.7781><0.5824054~EffectColor1~19.20935~130.5927~50~86.60254~0~0~None~0~0, 
+PlacedObjects: LightSource><697.9969><257.9843><0.5592065~EffectColor1~19.20935~130.5927~50~86.60254~0~0~None~0~0, LightSource><857.6281><259.7781><0.5824054~EffectColor1~19.20935~130.5927~50~86.60254~0~0~None~0~0, LightSource><692.231><380.2754><0.2189419~Environment~381.3417~60.15833~83.43854~-269.1266~1~1~None~0~0, 
 AmbientSounds: SPOT><AM_ENV-Outside.ogg><749.5628><473.2529><0.5><1><1069.96><161.6497><-102.9438><-2.628265><0><0.1, 
