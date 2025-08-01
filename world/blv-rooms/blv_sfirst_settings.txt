@@ -1,0 +1,4 @@
+EffectColorA: 15
+EffectColorB: 6
+PlacedObjects: LightSource><1026.632><480.3688><0.3194753~EffectColor1~7.114594~48.77502~-306.4406~21.85986~1~1~None~0~0, LightSource><945.4531><481.0416><0.3194753~EffectColor1~7.114594~48.77502~-306.4406~21.85986~1~1~None~0~0, 
+FadePalette: 728, 0.4717278
