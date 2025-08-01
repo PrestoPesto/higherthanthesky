@@ -1,4 +1,5 @@
 [MERGE]
 GATE_LNR_SI : 2 : 4
 GATE_LNR_OE : 2 : 4 : OELock
+GATE_BLV_LNR : 3 : 4
 [ENDMERGE]

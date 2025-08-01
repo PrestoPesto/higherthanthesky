@@ -1,1 +1,2 @@
 Template: lnr_settingstemplate_cave
+AmbientSounds: SPOT><RWTW_DustStorm_Gusting.ogg><784.0156><540.7833><0.2525363><1><1077.377><228.1052><-35.35534><-35.35534><0><0.1, SPOT><RWTW_DustStorm_Gusting.ogg><795.2082><405.2466><0.314402><1><100.3541><429.0883><-35.35534><-35.35534><0><0.1, 
