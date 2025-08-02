@@ -5,8 +5,8 @@ RandomItemSpearChance: 0
 Palette: 3
 EffectColorA: 4
 EffectColorB: 18
-Effects: Darkness-0.4485283-276.876-30, 
+Effects: Darkness-0.2861302-276.876-30, 
 PlacedObjects: CustomDecal><363.5793><207.9336><0~121~178~119~183~3~60~-246~0.3043478~1~0~whitetag4~0.3695652~0.4565217~0.3695652~0.4565217~0.3695652~0.4565217~0.3695652~0.4565217, NoSpearStickZone><119.8451><330.8735><8~230, LightSource><39.20142><414.2723><0.1266987~EffectColor2~142~-2~50~86.60254~0~1~None~0~0, LightSource><37><262><0.1421648~EffectColor2~142~-2~50~86.60254~0~1~None~0~0, LightSource><1084.383><258.2667><0.09576549~EffectColor2~142~-2~-316.401~106.5136~0~1~None~0~0, LightSource><1082.229><422.6667><0.1189655~EffectColor2~142~-2~-233.1603~75.22476~0~1~None~0~0, ReliableSpear><545.376><237.1569><, LightSource><397.8087><587.4313><0.1261437~EffectColor1~66.87714~96.44446~106.2052~-157.3086~0~1~None~0~0, LightSource><720.8698><590.4><0.1338766~EffectColor1~66.87714~96.44446~106.2052~-157.3086~0~1~None~0~0, LightSource><907.9834><369.9556><0.06427798~EffectColor1~42.6875~50.93332~106.2052~-157.3086~0~1~None~0~0, 
-FadePalette: 2, 0.3043478
+FadePalette: 728, 0.3043478
 WetTerrain: OFF
-MorePalette0: 14, 0.3504075
+MorePalette0: 14, 0
