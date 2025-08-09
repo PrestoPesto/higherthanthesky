@@ -1,2 +1,2 @@
 EffectColorA: 15
-PlacedObjects: LightSource><496.7062><463.047><0.1957432~EffectColor1~358.5751~231.6198~91.26459~-79.16724~1~0~None~0~0, 
+PlacedObjects: LightSource><496.7062><463.047><0.1493438~Environment~358.5751~231.6198~91.26459~-79.16724~1~0~None~0~0, 

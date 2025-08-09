@@ -1,3 +1,4 @@
 Template: blv_settingstemplate_bloominginside
 Palette: 733
+PlacedObjects: CustomDecal><479.8568><348.5809><-3~364~132~358~100~7~-330~-184~0.05434782~1~0~rustb2~0.5978261~1~0.5978261~1~0.5978261~1~0.5978261~1, 
 AmbientSounds: SPOT><AM_ENV-Outside.ogg><718.9061><473.7213><0.5><1><73.53729><187.7307><88.43839><-14.72304><0><0.1, 

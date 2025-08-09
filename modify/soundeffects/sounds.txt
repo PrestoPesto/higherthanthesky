@@ -1,0 +1,1 @@
+[ADD]SidewinderVoice : SidewinderVoice/minVol=0.5/maxVol-0.7/minPitch=0.8/maxPitch=1.2
