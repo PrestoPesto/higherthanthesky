@@ -3,6 +3,7 @@ CeilingDrips: 0.7065217
 Clouds: 0.4562613
 Grime: 0.1195652
 Palette: 731
+EffectColorA: 15
 EffectColorB: 6
 Effects: LightBurn-0.3586957-20-20, ModifyEffectColorB-0,0.5,0.2173913-319-76, 
 AmbientSounds: OMNI><RWTW_AmbDrips_01.ogg><765.4093><522.4282><0.4021739><1, OMNI><RWTW_AmbInterior.ogg><706.4425><324.1958><0.4782609><1, 
