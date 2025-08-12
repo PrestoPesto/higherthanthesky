@@ -1,0 +1,6 @@
+Template: blv_settingstemplate_bloominginside
+EffectColorA: 15
+Effects: SkyAndLightBloom-0-331--5, LightBurn-0.1195652-292-81, 
+PlacedObjects: LightSource><383.0582><321.5566><0.1413043~EffectColor1~190~233~50~86.60254~0~0~None~0~0, LightSource><611><331><0.1413043~EffectColor1~190~233~50~86.60254~0~0~None~0~0, LightSource><842><340><0.1413043~EffectColor1~190~233~50~86.60254~0~0~None~0~0, LightSource><1073><327><0.1413043~EffectColor1~190~233~50~86.60254~0~0~None~0~0, LightSource><1304><329><0.07608695~EffectColor1~190~233~50~86.60254~0~0~None~0~0, LightSource><1536><350><0.07608695~EffectColor1~190~233~50~86.60254~0~0~None~0~0, CustomDecal><1053.054><814.5394><-6~474~564~452~575~8~-288~21~0~1~0~rustb2~0.5~1~0.5~1~0.5~1~0.5~1, CustomDecal><1348><860><-6~474~564~452~575~8~-288~21~0~1~0~rustb2~0.5~1~0.5~1~0.5~1~0.5~1, 
+AmbientSounds: SPOT><AM_ENV-Outside.ogg><808.842><432.8773><0.5><1><1951.842><970.8773><-69.35535><-39.35535><0><0.1, SPOT><RWTW_AmbInterior.ogg><755.6487><322.1725><0.5><1><609.6487><295.1725><-273.3553><-57.35535><0><0.9260871, OMNI><AM_ENV-CityTone.ogg><800.8028><565.2303><0><0.9217392, SPOT><AM_ENV-CityTone.ogg><880.4265><612.686><0.3152174><1><1812.427><1077.686><-323.3553><-186.3553><0><0.3065219, 
+FadePalette: 731, 0, 1, 0.6086956

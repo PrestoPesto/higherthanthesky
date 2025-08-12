@@ -1,0 +1,1 @@
+PlacedObjects: LightSource><1643.886><284.5854><0.2391304~EffectColor1~78~386~50~86.60254~0~0~None~0~0, LightSource><1027><282><0.2391304~EffectColor1~78~386~50~86.60254~0~0~None~0~0, LightSource><364><286><0.2391304~EffectColor1~78~386~50~86.60254~0~0~None~0~0, 
