@@ -12,8 +12,8 @@ TH_LNR - LEAD-LP : NEUTRAL
 TH_LNR - PINGS-LP : NEUTRAL
 
 
-Layer : TH_LNR - KICK, TH_LNR - SHAKER
-Layer : TH_LNR - KICK, TH_LNR - SHAKER, TH_LNR - HAT
+Layer : TH_LNR - KICK
+Layer : {Lonely Road|Low Pass}TH_LNR - KICK, TH_LNR - SHAKER, TH_LNR - HAT
 Layer : {Lonely Road}TH_LNR - TAPS-LNR, TH_LNR - SHARE-LNR
 Layer : {Low Pass}TH_LNR - TRAP-LP
 Layer : {Lonely Road}TH_LNR - BASS-LNR
