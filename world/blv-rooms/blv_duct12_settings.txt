@@ -1,0 +1,2 @@
+WaterReflectionAlpha: 0.4973393
+PlacedObjects: LightSource><549.8675><257.1087><0.2266759~EffectColor1~285.2948~375.2~50~86.60254~0~0~None~0~0, 
