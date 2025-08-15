@@ -112,22 +112,22 @@ LNR_BRICK04 : 3-BigNeedleWorm, 4-SmallNeedleWorm-4
 LNR_LPOBLIGATORYBALLSROOM : 2-YellowLizard, 3-YellowLizard, 4-YellowLizard, 6-YellowLizard
 LNR_LP01 : 5-BlueLizard
 LNR_LPINSIDE01 : 3-WhiteLizard
-LNR_LP04 : 2-PinkLizard, 3-PoleMimic-{17}, 4-WhiteLizard, 6-Dropwig, 7-BlueLizard
+LNR_LP04 : 2-PinkLizard, 3-PoleMimic-{10}, 4-WhiteLizard, 6-Dropwig, 7-BlueLizard
 LNR_LP06 : 3-WhiteLizard, 6-Dropwig
 LNR_LPINSIDE06 : 4-CyanLizard-2, 6-CyanLizard, 7-CyanLizard
 LNR_CRATE06 : 3-SmallCentipede, 4-SmallCentipede, 5-SmallCentipede, 6-SmallCentipede
 LNR_LPINSIDE07 : 3-CyanLizard
 LNR_LP07 : 5-PinkLizard, 6-BlueLizard, 7-BlueLizard
-LNR_LEG : 4-PoleMimic, 5-BigSpider, 6-PoleMimic-{21}, 7-BigSpider
+LNR_LEG : 4-PoleMimic, 5-BigSpider, 6-PoleMimic-{12}, 7-BigSpider
 LNR_SAND04 : 2-SpitLizard-{Mea}
 LNR_CAVE02 : 3-BlueLizard-2
 LNR_TUNNELCOLLAPSE : 3-BigSpider, 4-LanternMouse, 5-LanternMouse, 6-Spider-15
 LNR_TUNNEL03 : 2-LanternMouse, 3-MotherSpider, 4-LanternMouse, 5-LanternMouse
-LNR_ARCHIVEPIT : 3-PoleMimic-{15}, 4-WhiteLizard, 5-BlueLizard
+LNR_ARCHIVEPIT : 3-PoleMimic-{9}, 4-WhiteLizard, 5-BlueLizard
 LNR_SAND08 : 2-GreenLizard
 LNR_SAND10 : 3-SpitLizard, 4-SpitLizard
 LNR_BRIDGEBASE : 2-Cicada-2, 3-Cicada, 4-PinkLizard, 5-WhiteLizard
-LNR_BRICK03 : 2-PoleMimic-{16}, 5-PinkLizard, 6-BlueLizard
+LNR_BRICK03 : 2-PoleMimic-{9}, 5-PinkLizard, 6-BlueLizard
 OFFSCREEN : 0-Vulture-3, 0-Scavenger-15, 0-BigEel
 LNR_CAVE01 : 4-WhiteLizard, 5-Dropwig
 LNR_TUNNEL05 : 2-BlackLizard, 3-BlackLizard, 4-BlackLizard, 5-BlackLizard

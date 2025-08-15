@@ -1,0 +1,6 @@
+Template: blv_settingstemplate_bloominginside
+Palette: 736
+EffectColorA: 18
+Effects: SkyAndLightBloom-0-298.9708-59.91111, Moth-0-296.1646-7.333328, 
+PlacedObjects: LightSource><469.7403><352.7299><0.3890739~EffectColor1~2.845825~181.7778~50~86.60254~0~0~None~0~0, BetterDecal><437.3984><351.825><-360.9073~-328.7556~-368.7333~331.6~429.2073~315.9555~403.5948~-310.2667~0~0~False~MUL~SCREEN~NORMAL~0.02319999~1~0~True~True~True~True~True~True~megarust-b~0.5~0.25~1~1~1~1~0.5~0.25~1~1~1~1~0.5~0.25~1~1~1~1~0.5~0.25~1~1~1~1, 
+FadePalette: 10, 0.1546647

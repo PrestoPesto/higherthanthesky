@@ -1,0 +1,4 @@
+Template: blv_settingstemplate_bloominginside
+Palette: 736
+Effects: SkyAndLightBloom-0-40-40, Moth-0-20-20, 
+PlacedObjects: BetterDecal><469.9498><348.4925><-352~-279~-343~264~351~265~375~-308~0~0~False~MUL~SCREEN~NORMAL~0.02173913~1~0~True~True~True~True~True~True~megarust-b~0.5~0.25~1~1~1~1~0.5~0.25~1~1~1~1~0.5~0.25~1~1~1~1~0.5~0.25~1~1~1~1, 

@@ -1,0 +1,7 @@
+Template: blv_settingstemplate_bloominginside
+Grime: 0.1377832
+Palette: 736
+EffectColorA: 18
+Effects: Moth-0-30-30, 
+PlacedObjects: LightSource><288.1373><1231.585><0.2065217~EffectColor1~-1~31~50~86.60254~0~1~None~0~0, LightSource><470><1232><0.2065217~EffectColor1~-1~31~50~86.60254~0~1~None~0~0, LightSource><610><1192><0.6086956~EffectColor1~-1~31~50~86.60254~0~0~None~0~0, LightSource><609><1154><0.6086956~EffectColor1~-1~31~50~86.60254~0~0~None~0~0, LightSource><509><389><0.2065217~EffectColor1~-1~31~50~86.60254~0~1~None~0~0, LightSource><652><390><0.2065217~EffectColor1~-1~31~50~86.60254~0~1~None~0~0, BetterDecal><402.081><1178.683><-392~-390~-367~233~427~254~443~-426~-580~-336~False~MUL~SCREEN~NORMAL~0.01086957~1~0~True~True~True~True~True~True~megarust-b~0.5~0.25~1~1~1~1~0.5~0.25~1~1~1~1~0.5~0.25~1~1~1~1~0.5~0.25~1~1~1~1, BetterDecal><512><377><-392~-390~-358~664~421~693~443~-426~-580~-336~False~MUL~SCREEN~NORMAL~0.01086957~1~0~True~True~True~True~True~True~megarust-b~0.5~0.25~1~1~1~1~0.5~0.25~1~1~1~1~0.5~0.25~1~1~1~1~0.5~0.25~1~1~1~1, LightSource><398.8673><298.088><0.2717391~EffectColor1~10~150~50~86.60254~0~0~None~0~0, LightSource><505><1230><0.2717391~EffectColor1~10~150~50~86.60254~0~0~None~0~0, AdjustableFan><381.3926><977.3903><5~8.660254~0~0.497826~1~1, LightSource><569.0734><302.2583><0.1957429~Environment~-36.28436~198.1333~50~86.60254~0~0~None~0~0, 
+FadePalette: 10, 0.2065217, 0.2065217
