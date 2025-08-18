@@ -1,0 +1,13 @@
+LNR_Landscape - 6 : 12
+LNR_Landscape - 5 : 8 : Basic
+LNR_Landscape - 4 : 6 : Basic
+LNR_Landscape - 3 : 5.5
+LNR_Landscape - 2 : 0.9
+LNR_Landscape - 1 : 0.3 : LightEdges
+
+blurMin : 0.1
+blurMax : 0.7
+idleDepths : 11
+idleDepths : 5.5
+idleDepths : 3
+idleDepths : 1.2

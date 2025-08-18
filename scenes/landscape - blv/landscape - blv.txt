@@ -1,0 +1,11 @@
+BLV_Landscape - 5 : 8 : Basic
+BLV_Landscape - 4 : 6 : Basic
+BLV_Landscape - 3 : 6 : Basic
+BLV_Landscape - 2 : 4
+BLV_Landscape - 1 : 0.9 : LightEdges
+
+blurMin : 0.1
+blurMax : 0.7
+idleDepths : 7.5
+idleDepths : 4
+idleDepths : 1.2
